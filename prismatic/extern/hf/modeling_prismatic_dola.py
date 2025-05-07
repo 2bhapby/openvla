@@ -30,6 +30,8 @@ from transformers.modeling_outputs import ModelOutput
 from .configuration_prismatic import OpenVLAConfig, PrismaticConfig
 
 import torch.nn.functional as F
+from typing import Optional, Sequence
+
 
 
 # Get Logger
@@ -556,7 +558,8 @@ class OpenVLAForActionPrediction(PrismaticForConditionalGeneration):
         return scores_normalized < probs_thresh.unsqueeze(-1)
 
     def predict_action_dola(
-    self, input_ids: Optional[torch.LongTensor] = None, unnorm_key: Optional[str] = None, **kwargs
+    self, input_ids: Optional[torch.LongTensor] = None, unnorm_key: Optional[str] = None, *, candidate_premature_layers: Optional[Sequence[int]] = None,
+ **kwargs
 ) -> np.ndarray:
         """
         DoLa 방식의 action prediction.
@@ -573,6 +576,7 @@ class OpenVLAForActionPrediction(PrismaticForConditionalGeneration):
 
         generated = input_ids
         num_steps = self.get_action_dim(unnorm_key)
+        lm_head = self.get_output_embeddings()
 
         for step in range(num_steps):
             outputs = self.forward(
@@ -583,39 +587,50 @@ class OpenVLAForActionPrediction(PrismaticForConditionalGeneration):
             )
 
             hidden_states = outputs.hidden_states[1:]  # [layer1, ..., layerN]
-            last_token_hiddens = [h[:, -1, :] for h in hidden_states]  # (L, B, D)
+            L = len(hidden_states)
+            # candidate_premature_layers 설정
+            if candidate_premature_layers is None:
+            # 모든 premature 레이어 = 0,1,...,L-2
+                candidates = list(range(L - 1))
+            else:
+                candidates = list(candidate_premature_layers)
 
-            # 각 layer별 softmax된 logit 계산
-            lm_head = self.get_output_embeddings()
-            logits_by_layer = [lm_head(h) for h in last_token_hiddens]  # (L, B, vocab)
-            probs_by_layer = [F.softmax(logit[0], dim=-1) for logit in logits_by_layer]  # (L, V)
+            # 1) Stack & softmax
+            last_hiddens = torch.stack([h[:, -1, :] for h in hidden_states], dim=0)  # (L, B, D)
+            logits = lm_head(last_hiddens)                                     # (L, B, V)
+            probs = F.softmax(logits, dim=-1)                                 # (L, B, V)
 
-            # Mature = 마지막 layer
-            mature_prob = probs_by_layer[-1]
 
-            # JS divergence 계산
-            js_divs = []
-            for prob in probs_by_layer[:-1]:
-                M = 0.5 * (prob + mature_prob)
-                kl1 = F.kl_div(mature_prob.log(), M, reduction="sum")
-                kl2 = F.kl_div(prob.log(), M, reduction="sum")
-                jsd = 0.5 * (kl1 + kl2)
-                js_divs.append(jsd.item())
+            # vocab head를 구해서 필터링
+            # vocab_heads = self._get_relative_top_filter(probs_by_layer, relative_top=0.1, min_tokens_to_keep=1)
+            
+            # 2) Mature / premature 분리
+            mature_prob = probs[-1]             # (B, V)
+            premature_probs = probs[candidates]     # (K, B, V), K = len(candidates)
+            
+            M = 0.5 * (mature_prob.unsqueeze(0) + premature_probs)  # (K, B, V)
+            log_m = torch.log_softmax(logits[-1],    dim=-1).unsqueeze(0)  # (1, B, V)
+            log_pre = torch.log_softmax(logits[candidates], dim=-1)       # (K, B, V)
 
+            kl1 = F.kl_div(log_m,   M, reduction='none').mean(dim=-1)    # (K, B)
+            kl2 = F.kl_div(log_pre, M, reduction='none').mean(dim=-1)    # (K, B)
+            jsd = 0.5 * (kl1 + kl2)                                      # (K, B)
+            jsd = jsd.mean(dim=-1)                                       # (K,)
+            
             # 가장 차이 큰 premature layer 선택
-            premature_idx = int(np.argmax(js_divs))
-            premature_prob = probs_by_layer[premature_idx]
+            max_idx = int(jsd.argmax().item())
+            chosen_prob = premature_probs[max_idx]  # (B, V)
 
             # Contrastive logits 계산
             alpha = 0.1
-            max_prob = mature_prob.max()
-            mask = mature_prob >= alpha * max_prob
-            contrastive_logits = torch.full_like(mature_prob, -float("inf"))
-            contrastive_logits[mask] = torch.log(mature_prob[mask] / (premature_prob[mask] + 1e-8))
+            max_val = mature_prob.max(dim=-1, keepdim=True)[0]
+            mask = mature_prob >= alpha * max_val
+            contrast_logits = torch.full_like(mature_prob, -float("inf"))
+            contrast_logits[mask] = torch.log(mature_prob[mask] / (chosen_prob[mask] + 1e-8))
 
             # 다음 토큰 선택
-            next_token = torch.softmax(contrastive_logits, dim=-1).argmax().unsqueeze(0).unsqueeze(0)
-            generated = torch.cat([generated, next_token], dim=1)
+            next_token = contrast_logits.softmax(dim=-1).argmax(dim=-1, keepdim=True)  # (B,1)
+            generated  = torch.cat([generated, next_token], dim=1)
 
         # 토큰 → 연속값 변환
         predicted_token_ids = generated[0, -num_steps:].cpu().numpy()

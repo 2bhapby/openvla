@@ -1,0 +1,91 @@
+Task suite: libero_spatial
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 1...
+Caught exception: PrismaticForConditionalGeneration.forward() got an unexpected keyword argument 'do_sample'
+Saved rollout MP4 at path ./rollouts/2025_05_06/2025_05_06-19_32_01--episode=1--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 1
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 2...
+Caught exception: PrismaticForConditionalGeneration.forward() got an unexpected keyword argument 'do_sample'
+Saved rollout MP4 at path ./rollouts/2025_05_06/2025_05_06-19_32_01--episode=2--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 2
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 3...
+Caught exception: PrismaticForConditionalGeneration.forward() got an unexpected keyword argument 'do_sample'
+Saved rollout MP4 at path ./rollouts/2025_05_06/2025_05_06-19_32_01--episode=3--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 3
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 4...
+Caught exception: PrismaticForConditionalGeneration.forward() got an unexpected keyword argument 'do_sample'
+Saved rollout MP4 at path ./rollouts/2025_05_06/2025_05_06-19_32_01--episode=4--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 4
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 5...
+Caught exception: PrismaticForConditionalGeneration.forward() got an unexpected keyword argument 'do_sample'
+Saved rollout MP4 at path ./rollouts/2025_05_06/2025_05_06-19_32_01--episode=5--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 5
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 6...
+Caught exception: PrismaticForConditionalGeneration.forward() got an unexpected keyword argument 'do_sample'
+Saved rollout MP4 at path ./rollouts/2025_05_06/2025_05_06-19_32_01--episode=6--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 6
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 7...
+Caught exception: PrismaticForConditionalGeneration.forward() got an unexpected keyword argument 'do_sample'
+Saved rollout MP4 at path ./rollouts/2025_05_06/2025_05_06-19_32_01--episode=7--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 7
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 8...
+Caught exception: PrismaticForConditionalGeneration.forward() got an unexpected keyword argument 'do_sample'
+Saved rollout MP4 at path ./rollouts/2025_05_06/2025_05_06-19_32_01--episode=8--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 8
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 9...
+Caught exception: PrismaticForConditionalGeneration.forward() got an unexpected keyword argument 'do_sample'
+Saved rollout MP4 at path ./rollouts/2025_05_06/2025_05_06-19_32_01--episode=9--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 9
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 10...
+Caught exception: PrismaticForConditionalGeneration.forward() got an unexpected keyword argument 'do_sample'
+Saved rollout MP4 at path ./rollouts/2025_05_06/2025_05_06-19_32_01--episode=10--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 10
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Starting episode 11...
+Caught exception: PrismaticForConditionalGeneration.forward() got an unexpected keyword argument 'do_sample'
+Saved rollout MP4 at path ./rollouts/2025_05_06/2025_05_06-19_32_01--episode=11--success=False--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4
+Success: False
+# episodes completed so far: 11
+# successes: 0 (0.0%)
+
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate

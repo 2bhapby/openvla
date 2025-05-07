@@ -47,7 +47,7 @@ def get_vla(cfg):
         load_in_8bit=cfg.load_in_8bit,
         load_in_4bit=cfg.load_in_4bit,
         low_cpu_mem_usage=True,
-        trust_remote_code=True,
+        trust_remote_code=False,
     )
 
     # Move model to device.
@@ -124,7 +124,7 @@ def crop_and_resize(image, crop_scale, batch_size):
     return image
 
 
-def get_vla_action(vla, processor, base_vla_name, obs, task_label, unnorm_key, center_crop=False):
+def get_vla_action(vla, processor, base_vla_name, obs, task_label, unnorm_key, dola=False, center_crop=False):
     """Generates an action with the VLA policy."""
     image = Image.fromarray(obs["full_image"])
     image = image.convert("RGB")
@@ -166,5 +166,10 @@ def get_vla_action(vla, processor, base_vla_name, obs, task_label, unnorm_key, c
     inputs = processor(prompt, image).to(DEVICE, dtype=torch.bfloat16)
 
     # Get action.
-    action = vla.predict_action(**inputs, unnorm_key=unnorm_key, do_sample=False)
+    if dola:
+        print("[*] Using DOLA")
+        action = vla.predict_action_dola(**inputs, unnorm_key=unnorm_key)
+    else:
+        action = vla.predict_action(**inputs, unnorm_key=unnorm_key, do_sample=False)
+
     return action
