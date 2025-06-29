@@ -29,6 +29,11 @@ import tqdm
 from libero.libero import benchmark
 
 import wandb
+from typing import Optional, Union, Sequence, List
+
+import time
+import torch
+from collections import defaultdict
 
 # Append current directory so that interpreter can find experiments.robot
 sys.path.append("../..")
@@ -50,6 +55,7 @@ from experiments.robot.robot_utils import (
     set_seed_everywhere,
 )
 
+dola = True  # Use DOLA (Dynamic Open Loop Action) for action generation
 
 @dataclass
 class GenerateConfig:
@@ -64,6 +70,7 @@ class GenerateConfig:
     load_in_4bit: bool = False                       # (For OpenVLA only) Load with 4-bit quantization
 
     center_crop: bool = True                         # Center crop? (if trained w/ random crop image aug)
+    candidate_premature_layers: Optional[List[int]] = None  # DOLA에 넘길 premature layer 인덱스 리스트
 
     #################################################################################################################
     # LIBERO environment-specific parameters
@@ -117,13 +124,16 @@ def eval_libero(cfg: GenerateConfig) -> None:
         processor = get_processor(cfg)
 
     # Initialize local logging
-    run_id = f"EVAL-{cfg.task_suite_name}-{cfg.model_family}-{DATE_TIME}"
+    run_id = f"EVAL-{cfg.task_suite_name}-{cfg.model_family}-{DATE_TIME}-dola"
     if cfg.run_id_note is not None:
         run_id += f"--{cfg.run_id_note}"
     os.makedirs(cfg.local_log_dir, exist_ok=True)
     local_log_filepath = os.path.join(cfg.local_log_dir, run_id + ".txt")
     log_file = open(local_log_filepath, "w")
     print(f"Logging to local log file: {local_log_filepath}")
+
+    run_log_dir = os.path.join(cfg.local_log_dir, run_id)
+    os.makedirs(run_log_dir, exist_ok=True)
 
     # Initialize Weights & Biases logging as well
     if cfg.use_wandb:
@@ -142,15 +152,12 @@ def eval_libero(cfg: GenerateConfig) -> None:
 
     # Get expected image dimensions
     resize_size = get_image_resize_size(cfg)
-
     # Start evaluation
     total_episodes, total_successes = 0, 0
     for task_id in tqdm.tqdm(range(num_tasks_in_suite)):
-        # Get task
-        if task_id == 0:
+        if task_id != 4:
             continue
-        print(f"\nTask ID: {task_id}")
-
+        # Get task
         task = task_suite.get_task(task_id)
 
         # Get default LIBERO initial states
@@ -158,6 +165,7 @@ def eval_libero(cfg: GenerateConfig) -> None:
 
         # Initialize LIBERO environment and task description
         env, task_description = get_libero_env(task, cfg.model_family, resolution=256)
+        task_description = "put the white mug on the right plate and put the yellow and white mug on the left plate"
 
         # Start episodes
         task_episodes, task_successes = 0, 0
@@ -187,6 +195,9 @@ def eval_libero(cfg: GenerateConfig) -> None:
 
             print(f"Starting episode {task_episodes+1}...")
             log_file.write(f"Starting episode {task_episodes+1}...\n")
+            print(f"Use DOLA: {dola}")
+            step_latency_sum = 0.0
+            step_count = 0
             while t < max_steps + cfg.num_steps_wait:
                 try:
                     # IMPORTANT: Do nothing for the first few timesteps because the simulator drops objects
@@ -212,15 +223,67 @@ def eval_libero(cfg: GenerateConfig) -> None:
                     }
 
                     # Query model to get action
-                    print(f"Querying model for action...")
+                    if torch.cuda.is_available():
+                        torch.cuda.synchronize()
+                    t0 = time.time()
+
+                    # action, jsd_list, mature_list, contrast_list = get_action(
+                    #     cfg,
+                    #     model,
+                    #     observation,
+                    #     task_description,
+                    #     task_id=task_id, episode_id=episode_idx, out_dir=run_log_dir,
+                    #     dola=dola,
+                    #     processor=processor,
+                    # )
+
+                    debug_args = {
+                        "task_id": task_id,
+                        "episode_id": total_episodes,
+                        "output_dir": run_log_dir,
+                        "step": t,
+                    }
+
                     action = get_action(
                         cfg,
                         model,
                         observation,
                         task_description,
-                        dola=True,
+                        debug_mode=False,
+                        debug_args=debug_args,
+                        dola=dola,
                         processor=processor,
                     )
+
+                    if torch.cuda.is_available(): torch.cuda.synchronize()
+                    t1 = time.time()
+
+                    # # 1) 파일로 저장
+                    # #    스텝별 list 요소를 스택으로 묶어 한 번에 저장
+                    # jsd_arr = torch.stack(jsd_list).cpu().float().numpy()
+                    # mature_arr = torch.stack(mature_list).cpu().float().numpy()
+                    # contrast_arr = torch.stack(contrast_list).cpu().float().numpy()
+                    # np.save(os.path.join(run_log_dir, f"jsd_task{task_id}_ep{episode_idx}_step{t}.npy"), jsd_arr)
+                    # np.save(os.path.join(run_log_dir, f"mature_task{task_id}_ep{episode_idx}_step{t}.npy"), mature_arr)
+                    # np.save(os.path.join(run_log_dir, f"contrast_task{task_id}_ep{episode_idx}_step{t}.npy"), contrast_arr)
+
+                    # # 2) 메모리 해제
+                    # del jsd_list, mature_list, contrast_list
+                    # del jsd_arr, mature_arr, contrast_arr
+
+                    if torch.cuda.is_available():
+                        torch.cuda.synchronize()
+                    t2 = time.time()
+
+                    latency_ms = (t1 - t0) * 1000.0
+                    step_latency_sum += latency_ms
+                    step_count += 1
+
+                    log_file.write(f" Step {step_count} latency: {latency_ms:.1f} ms\n")
+
+                    latency_ms_io = (t2 - t1) * 1000.0
+
+                    log_file.write(f" Step {step_count} latency (I/O): {latency_ms_io:.1f} ms\n")
 
                     # Normalize gripper action [0,1] -> [-1,+1] because the environment expects the latter
                     action = normalize_gripper_action(action, binarize=True)
@@ -250,6 +313,11 @@ def eval_libero(cfg: GenerateConfig) -> None:
             save_rollout_video(
                 replay_images, total_episodes, success=done, task_description=task_description, log_file=log_file
             )
+            
+            if step_count > 0:
+                avg_latency = step_latency_sum / step_count
+                print(f"Episode {task_episodes+1} average get_action latency: {avg_latency:.1f} ms over {step_count} steps")
+                log_file.write(f"Episode {task_episodes+1} average get_action latency: {avg_latency:.1f} ms over {step_count} steps\n")
 
             # Log current results
             print(f"Success: {done}")

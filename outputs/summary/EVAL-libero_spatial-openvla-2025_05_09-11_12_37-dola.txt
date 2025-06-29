@@ -1,0 +1,531 @@
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Task: pick up the black bowl between the plate and the ramekin and place it on the plate
+Current task success rate: 0.86
+Current total success rate: 0.86
+
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Task: pick up the black bowl next to the ramekin and place it on the plate
+Current task success rate: 0.94
+Current total success rate: 0.9
+
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Task: pick up the black bowl from table center and place it on the plate
+Current task success rate: 0.94
+Current total success rate: 0.9133333333333333
+
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Task: pick up the black bowl on the cookie box and place it on the plate
+Current task success rate: 0.94
+Current total success rate: 0.92
+
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Task: pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate
+Current task success rate: 0.68
+Current total success rate: 0.872
+
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Task: pick up the black bowl on the ramekin and place it on the plate
+Current task success rate: 0.94
+Current total success rate: 0.8833333333333333
+
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Task: pick up the black bowl next to the cookie box and place it on the plate
+Current task success rate: 0.92
+Current total success rate: 0.8885714285714286
+
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Task: pick up the black bowl on the stove and place it on the plate
+Current task success rate: 0.86
+Current total success rate: 0.885
+
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Task: pick up the black bowl next to the plate and place it on the plate
+Current task success rate: 0.78
+Current total success rate: 0.8733333333333333
+
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Task: pick up the black bowl on the wooden cabinet and place it on the plate
+Current task success rate: 0.64
+Current total success rate: 0.85
+
+

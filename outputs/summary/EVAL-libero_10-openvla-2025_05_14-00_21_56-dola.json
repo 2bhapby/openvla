@@ -1,0 +1,88 @@
+{
+  "tasks": {
+    "put_both_the_alphabet_soup_and_the_tomato_sauce_in": {
+      "start_episode": 1,
+      "successes": 29,
+      "failures": 21,
+      "avg_steps_success": 315.37931034482756,
+      "avg_steps_failure": 520.0,
+      "success_rate": 0.58
+    },
+    "put_both_the_cream_cheese_box_and_the_butter_in_th": {
+      "start_episode": 51,
+      "successes": 33,
+      "failures": 17,
+      "avg_steps_success": 278.1212121212121,
+      "avg_steps_failure": 520.0,
+      "success_rate": 0.66
+    },
+    "turn_on_the_stove_and_put_the_moka_pot_on_it": {
+      "start_episode": 101,
+      "successes": 27,
+      "failures": 23,
+      "avg_steps_success": 284.44444444444446,
+      "avg_steps_failure": 520.0,
+      "success_rate": 0.54
+    },
+    "put_the_black_bowl_in_the_bottom_drawer_of_the_cab": {
+      "start_episode": 151,
+      "successes": 20,
+      "failures": 30,
+      "avg_steps_success": 270.15,
+      "avg_steps_failure": 520.0,
+      "success_rate": 0.4
+    },
+    "put_the_white_mug_on_the_left_plate_and_put_the_ye": {
+      "start_episode": 201,
+      "successes": 15,
+      "failures": 35,
+      "avg_steps_success": 252.26666666666668,
+      "avg_steps_failure": 520.0,
+      "success_rate": 0.3
+    },
+    "pick_up_the_book_and_place_it_in_the_back_compartm": {
+      "start_episode": 251,
+      "successes": 36,
+      "failures": 14,
+      "avg_steps_success": 203.11111111111111,
+      "avg_steps_failure": 520.0,
+      "success_rate": 0.72
+    },
+    "put_the_white_mug_on_the_plate_and_put_the_chocola": {
+      "start_episode": 301,
+      "successes": 15,
+      "failures": 35,
+      "avg_steps_success": 253.26666666666668,
+      "avg_steps_failure": 520.0,
+      "success_rate": 0.3
+    },
+    "put_both_the_alphabet_soup_and_the_cream_cheese_bo": {
+      "start_episode": 351,
+      "successes": 35,
+      "failures": 15,
+      "avg_steps_success": 285.9428571428571,
+      "avg_steps_failure": 520.0,
+      "success_rate": 0.7
+    },
+    "put_both_moka_pots_on_the_stove": {
+      "start_episode": 401,
+      "successes": 14,
+      "failures": 36,
+      "avg_steps_success": 444.64285714285717,
+      "avg_steps_failure": 520.0,
+      "success_rate": 0.28
+    },
+    "put_the_yellow_and_white_mug_in_the_microwave_and_": {
+      "start_episode": 451,
+      "successes": 20,
+      "failures": 30,
+      "avg_steps_success": 339.05,
+      "avg_steps_failure": 520.0,
+      "success_rate": 0.4
+    }
+  },
+  "total_success": 244,
+  "total_failures": 256,
+  "total_success_rate": 0.488,
+  "total_steps_success": 284.08196721311475
+}

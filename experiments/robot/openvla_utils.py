@@ -124,7 +124,7 @@ def crop_and_resize(image, crop_scale, batch_size):
     return image
 
 
-def get_vla_action(vla, processor, base_vla_name, obs, task_label, unnorm_key, dola=False, center_crop=False):
+def get_vla_action(vla, processor, base_vla_name, obs, task_label, unnorm_key, dola=False, center_crop=False, candidate_premature_layers=None, debug_mode=False, debug_args=None,):
     """Generates an action with the VLA policy."""
     image = Image.fromarray(obs["full_image"])
     image = image.convert("RGB")
@@ -167,9 +167,10 @@ def get_vla_action(vla, processor, base_vla_name, obs, task_label, unnorm_key, d
 
     # Get action.
     if dola:
-        print("[*] Using DOLA")
-        action = vla.predict_action_dola(**inputs, unnorm_key=unnorm_key)
+        # action, jsd, mature_prob, contrast_logits = vla.predict_action_dola(**inputs, task_id=task_id, episode_id=episode_id, out_dir=out_dir, unnorm_key=unnorm_key, candidate_premature_layers=candidate_premature_layers)
+        # return action, jsd, mature_prob, contrast_logits
+        action = vla.predict_action_dola(**inputs, unnorm_key=unnorm_key, candidate_premature_layers=candidate_premature_layers, debug_mode=debug_mode, debug_args=debug_args,)
+        return action
     else:
         action = vla.predict_action(**inputs, unnorm_key=unnorm_key, do_sample=False)
-
-    return action
+        return action

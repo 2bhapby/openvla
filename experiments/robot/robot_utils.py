@@ -60,17 +60,36 @@ def get_image_resize_size(cfg):
     return resize_size
 
 
-def get_action(cfg, model, obs, task_label, dola=False, processor=None):
+def get_action(cfg, model, obs, task_label, debug_mode=False, debug_args=None, dola=False, processor=None):
     """Queries the model to get an action."""
+    # if dola:
+    #     # DOLA model
+    #     if cfg.model_family == "openvla":
+    #         action, jsd, mature_prob, contrast_logits = get_vla_action(
+    #             model, processor, cfg.pretrained_checkpoint, obs, task_label, cfg.unnorm_key, task_id, episode_id, out_dir, dola=dola, center_crop=cfg.center_crop, candidate_premature_layers=getattr(cfg, 'candidate_premature_layers', None), 
+    #             )
+    #         assert action.shape == (ACTION_DIM,)
+    #     else:
+    #         raise ValueError("Unexpected `model_family` found in config.")
+    #     return action, jsd, mature_prob, contrast_logits
+        
+    # else:
+    #     if cfg.model_family == "openvla":
+    #         action = get_vla_action(
+    #             model, processor, cfg.pretrained_checkpoint, obs, task_label, cfg.unnorm_key, dola=dola, center_crop=cfg.center_crop, candidate_premature_layers=getattr(cfg, 'candidate_premature_layers', None)
+    #             )
+    #         assert action.shape == (ACTION_DIM,)
+    #     else:
+    #         raise ValueError("Unexpected `model_family` found in config.")
+    #     return action
     if cfg.model_family == "openvla":
         action = get_vla_action(
-            model, processor, cfg.pretrained_checkpoint, obs, task_label, cfg.unnorm_key, dola=dola, center_crop=cfg.center_crop
-        )
+            model, processor, cfg.pretrained_checkpoint, obs, task_label, cfg.unnorm_key, dola=dola, center_crop=cfg.center_crop, candidate_premature_layers=getattr(cfg, 'candidate_premature_layers', None), debug_mode=debug_mode, debug_args=debug_args,
+            )
         assert action.shape == (ACTION_DIM,)
     else:
         raise ValueError("Unexpected `model_family` found in config.")
     return action
-
 
 def normalize_gripper_action(action, binarize=True):
     """

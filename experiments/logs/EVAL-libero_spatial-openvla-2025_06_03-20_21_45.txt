@@ -1,0 +1,12 @@
+Task suite: libero_spatial
+
+Task: 
+Starting episode 1...
+ Step 1 latency: 716.0 ms
+Saved rollout MP4 at path ./rollouts/2025_06_03/2025_06_03-20_21_45--episode=1--success=False--task=.mp4
+Episode 2 average get_action latency: 716.0 ms over 1 steps
+Success: False
+# episodes completed so far: 1
+# successes: 0 (0.0%)
+Current task success rate: 0.0
+Current total success rate: 0.0

@@ -1,0 +1,88 @@
+{
+  "tasks": {
+    "open_the_middle_drawer_of_the_cabinet": {
+      "start_episode": 1,
+      "successes": 30,
+      "failures": 20,
+      "avg_steps_success": 136.5,
+      "avg_steps_failure": 300.0,
+      "success_rate": 0.6
+    },
+    "put_the_bowl_on_the_stove": {
+      "start_episode": 51,
+      "successes": 45,
+      "failures": 5,
+      "avg_steps_success": 93.26666666666667,
+      "avg_steps_failure": 300.0,
+      "success_rate": 0.9
+    },
+    "put_the_wine_bottle_on_top_of_the_cabinet": {
+      "start_episode": 101,
+      "successes": 41,
+      "failures": 9,
+      "avg_steps_success": 99.26829268292683,
+      "avg_steps_failure": 300.0,
+      "success_rate": 0.82
+    },
+    "open_the_top_drawer_and_put_the_bowl_inside": {
+      "start_episode": 151,
+      "successes": 24,
+      "failures": 26,
+      "avg_steps_success": 204.08333333333334,
+      "avg_steps_failure": 300.0,
+      "success_rate": 0.48
+    },
+    "put_the_bowl_on_top_of_the_cabinet": {
+      "start_episode": 201,
+      "successes": 46,
+      "failures": 4,
+      "avg_steps_success": 98.28260869565217,
+      "avg_steps_failure": 300.0,
+      "success_rate": 0.92
+    },
+    "push_the_plate_to_the_front_of_the_stove": {
+      "start_episode": 251,
+      "successes": 43,
+      "failures": 7,
+      "avg_steps_success": 148.90697674418604,
+      "avg_steps_failure": 300.0,
+      "success_rate": 0.86
+    },
+    "put_the_cream_cheese_in_the_bowl": {
+      "start_episode": 301,
+      "successes": 41,
+      "failures": 9,
+      "avg_steps_success": 116.8780487804878,
+      "avg_steps_failure": 300.0,
+      "success_rate": 0.82
+    },
+    "turn_on_the_stove": {
+      "start_episode": 351,
+      "successes": 48,
+      "failures": 2,
+      "avg_steps_success": 81.89583333333333,
+      "avg_steps_failure": 300.0,
+      "success_rate": 0.96
+    },
+    "put_the_bowl_on_the_plate": {
+      "start_episode": 401,
+      "successes": 40,
+      "failures": 10,
+      "avg_steps_success": 86.075,
+      "avg_steps_failure": 300.0,
+      "success_rate": 0.8
+    },
+    "put_the_wine_bottle_on_the_rack": {
+      "start_episode": 451,
+      "successes": 30,
+      "failures": 20,
+      "avg_steps_success": 164.4,
+      "avg_steps_failure": 300.0,
+      "success_rate": 0.6
+    }
+  },
+  "total_success": 388,
+  "total_failures": 112,
+  "total_success_rate": 0.776,
+  "total_steps_success": 116.70618556701031
+}

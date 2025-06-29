@@ -1,0 +1,31 @@
+Current task success rate: 0.86
+Current total success rate: 0.86
+
+Current task success rate: 0.96
+Current total success rate: 0.91
+
+Current task success rate: 0.92
+Current total success rate: 0.9133333333333333
+
+Current task success rate: 0.94
+Current total success rate: 0.92
+
+Current task success rate: 0.76
+Current total success rate: 0.888
+
+Current task success rate: 0.86
+Current total success rate: 0.8833333333333333
+
+Current task success rate: 0.96
+Current total success rate: 0.8942857142857142
+
+Current task success rate: 0.92
+Current total success rate: 0.8975
+
+Current task success rate: 0.78
+Current total success rate: 0.8844444444444445
+
+Current task success rate: 0.7
+Current total success rate: 0.866
+
+

@@ -1,0 +1,531 @@
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Task: open the middle drawer of the cabinet
+Current task success rate: 0.6
+Current total success rate: 0.6
+
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Task: put the bowl on the stove
+Current task success rate: 0.9
+Current total success rate: 0.75
+
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Task: put the wine bottle on top of the cabinet
+Current task success rate: 0.82
+Current total success rate: 0.7733333333333333
+
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Task: open the top drawer and put the bowl inside
+Current task success rate: 0.48
+Current total success rate: 0.7
+
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Task: put the bowl on top of the cabinet
+Current task success rate: 0.92
+Current total success rate: 0.744
+
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Task: push the plate to the front of the stove
+Current task success rate: 0.86
+Current total success rate: 0.7633333333333333
+
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Task: put the cream cheese in the bowl
+Current task success rate: 0.82
+Current total success rate: 0.7714285714285715
+
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Task: turn on the stove
+Current task success rate: 0.96
+Current total success rate: 0.795
+
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Task: put the bowl on the plate
+Current task success rate: 0.8
+Current total success rate: 0.7955555555555556
+
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Task: put the wine bottle on the rack
+Current task success rate: 0.6
+Current total success rate: 0.776
+
+

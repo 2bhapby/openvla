@@ -1,0 +1,48 @@
+{
+  "tasks": {
+    "put_both_the_alphabet_soup_and_the_tomato_sauce_in": {
+      "start_episode": 1,
+      "successes": 29,
+      "failures": 21,
+      "avg_steps_success": 315.37931034482756,
+      "avg_steps_failure": 520.0,
+      "success_rate": 0.58
+    },
+    "put_both_the_cream_cheese_box_and_the_butter_in_th": {
+      "start_episode": 51,
+      "successes": 33,
+      "failures": 17,
+      "avg_steps_success": 278.1212121212121,
+      "avg_steps_failure": 520.0,
+      "success_rate": 0.66
+    },
+    "turn_on_the_stove_and_put_the_moka_pot_on_it": {
+      "start_episode": 101,
+      "successes": 27,
+      "failures": 23,
+      "avg_steps_success": 284.44444444444446,
+      "avg_steps_failure": 520.0,
+      "success_rate": 0.54
+    },
+    "put_the_black_bowl_in_the_bottom_drawer_of_the_cab": {
+      "start_episode": 151,
+      "successes": 20,
+      "failures": 30,
+      "avg_steps_success": 270.15,
+      "avg_steps_failure": 520.0,
+      "success_rate": 0.4
+    },
+    "put_the_white_mug_on_the_left_plate_and_put_the_ye": {
+      "start_episode": 201,
+      "successes": 8,
+      "failures": 20,
+      "avg_steps_success": 247.625,
+      "avg_steps_failure": 520.0,
+      "success_rate": 0.2857142857142857
+    }
+  },
+  "total_success": 117,
+  "total_failures": 111,
+  "total_success_rate": 0.5131578947368421,
+  "total_steps_success": 285.36752136752136
+}

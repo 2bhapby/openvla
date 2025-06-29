@@ -49,7 +49,7 @@ from experiments.robot.robot_utils import (
     normalize_gripper_action,
     set_seed_everywhere,
 )
-
+from save_hdf5 import save_regenerate_format_hdf5, save_regenerate_format_hdf5_grouped
 
 @dataclass
 class GenerateConfig:
@@ -146,6 +146,8 @@ def eval_libero(cfg: GenerateConfig) -> None:
     # Start evaluation
     total_episodes, total_successes = 0, 0
     for task_id in tqdm.tqdm(range(num_tasks_in_suite)):
+        # if task_id > 0:
+        #     break
         # Get task
         task = task_suite.get_task(task_id)
 
@@ -154,10 +156,12 @@ def eval_libero(cfg: GenerateConfig) -> None:
 
         # Initialize LIBERO environment and task description
         env, task_description = get_libero_env(task, cfg.model_family, resolution=256)
-
+        if task_description != "pick up the orange juice and place it in the basket":
+            continue  # Skip tasks that are not the orange juice task
         # Start episodes
         task_episodes, task_successes = 0, 0
         for episode_idx in tqdm.tqdm(range(cfg.num_trials_per_task)):
+            
             print(f"\nTask: {task_description}")
             log_file.write(f"\nTask: {task_description}\n")
 
@@ -181,6 +185,11 @@ def eval_libero(cfg: GenerateConfig) -> None:
             elif cfg.task_suite_name == "libero_90":
                 max_steps = 400  # longest training demo has 373 steps
 
+            actions, states, robot_states = [], [], []
+            gripper_states, joint_states, ee_states = [], [], []
+            rewards, dones = [], []
+            agentview_images, eye_in_hand_images, replay_images = [], [], []
+
             print(f"Starting episode {task_episodes+1}...")
             log_file.write(f"Starting episode {task_episodes+1}...\n")
             while t < max_steps + cfg.num_steps_wait:
@@ -194,6 +203,12 @@ def eval_libero(cfg: GenerateConfig) -> None:
 
                     # Get preprocessed image
                     img = get_libero_image(obs, resize_size)
+
+                    ee_pos = obs["robot0_eef_pos"]
+                    ee_quat = obs["robot0_eef_quat"]
+                    ee_axis = quat2axisangle(ee_quat)
+                    gripper = obs["robot0_gripper_qpos"]
+                    joint = obs["robot0_joint_pos"]
 
                     # Save preprocessed image for replay video
                     replay_images.append(img)
@@ -223,6 +238,15 @@ def eval_libero(cfg: GenerateConfig) -> None:
                     # (0 = close, 1 = open), so flip it back (-1 = open, +1 = close) before executing the action
                     if cfg.model_family == "openvla":
                         action = invert_gripper_action(action)
+                    
+                    actions.append(action)
+                    states.append(env.sim.get_state().flatten())
+                    robot_states.append(np.concatenate([gripper, ee_pos, ee_quat]))
+                    gripper_states.append(gripper)
+                    joint_states.append(joint)
+                    ee_states.append(np.concatenate([ee_pos, ee_axis]))
+                    agentview_images.append(obs["agentview_image"])
+                    eye_in_hand_images.append(obs["robot0_eye_in_hand_image"])
 
                     # Execute action in environment
                     obs, reward, done, info = env.step(action.tolist())
@@ -244,6 +268,21 @@ def eval_libero(cfg: GenerateConfig) -> None:
             save_rollout_video(
                 replay_images, total_episodes, success=done, task_description=task_description, log_file=log_file
             )
+
+            save_regenerate_format_hdf5_grouped(
+                save_dir="./generated_libero_hdf5",
+                task_name=task.name,
+                episode_idx=episode_idx,
+                actions=actions,
+                states=states,
+                robot_states=robot_states,
+                gripper_states=gripper_states,
+                joint_states=joint_states,
+                ee_states=ee_states,
+                agentview_images=agentview_images,
+                eye_in_hand_images=eye_in_hand_images,
+            )
+
 
             # Log current results
             print(f"Success: {done}")

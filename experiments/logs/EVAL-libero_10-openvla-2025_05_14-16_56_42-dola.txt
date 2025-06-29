@@ -1,0 +1,361 @@
+Task suite: libero_10
+Current task success rate: 0.0
+Current total success rate: 2.62
+Current task success rate: 0.0
+Current total success rate: 1.31
+Current task success rate: 0.0
+Current total success rate: 0.8733333333333333
+Current task success rate: 0.0
+Current total success rate: 0.655
+Current task success rate: 0.0
+Current total success rate: 0.524
+
+Task: pick up the book and place it in the back compartment of the caddy
+Starting episode 10...
+ Step 1 latency: 1382.9 ms
+ Step 1 latency (I/O): 0.0 ms
+ Step 2 latency: 987.5 ms
+ Step 2 latency (I/O): 0.0 ms
+ Step 3 latency: 974.6 ms
+ Step 3 latency (I/O): 0.0 ms
+ Step 4 latency: 979.9 ms
+ Step 4 latency (I/O): 0.0 ms
+ Step 5 latency: 972.4 ms
+ Step 5 latency (I/O): 0.0 ms
+ Step 6 latency: 982.4 ms
+ Step 6 latency (I/O): 0.0 ms
+ Step 7 latency: 980.9 ms
+ Step 7 latency (I/O): 0.0 ms
+ Step 8 latency: 985.1 ms
+ Step 8 latency (I/O): 0.0 ms
+ Step 9 latency: 985.5 ms
+ Step 9 latency (I/O): 0.0 ms
+ Step 10 latency: 983.1 ms
+ Step 10 latency (I/O): 0.0 ms
+ Step 11 latency: 986.6 ms
+ Step 11 latency (I/O): 0.0 ms
+ Step 12 latency: 982.8 ms
+ Step 12 latency (I/O): 0.0 ms
+ Step 13 latency: 977.2 ms
+ Step 13 latency (I/O): 0.0 ms
+ Step 14 latency: 980.7 ms
+ Step 14 latency (I/O): 0.0 ms
+ Step 15 latency: 979.9 ms
+ Step 15 latency (I/O): 0.0 ms
+ Step 16 latency: 983.2 ms
+ Step 16 latency (I/O): 0.0 ms
+ Step 17 latency: 976.0 ms
+ Step 17 latency (I/O): 0.0 ms
+ Step 18 latency: 974.2 ms
+ Step 18 latency (I/O): 0.0 ms
+ Step 19 latency: 993.4 ms
+ Step 19 latency (I/O): 0.0 ms
+ Step 20 latency: 974.8 ms
+ Step 20 latency (I/O): 0.0 ms
+ Step 21 latency: 977.2 ms
+ Step 21 latency (I/O): 0.0 ms
+ Step 22 latency: 975.5 ms
+ Step 22 latency (I/O): 0.0 ms
+ Step 23 latency: 971.6 ms
+ Step 23 latency (I/O): 0.0 ms
+ Step 24 latency: 977.0 ms
+ Step 24 latency (I/O): 0.0 ms
+ Step 25 latency: 977.1 ms
+ Step 25 latency (I/O): 0.0 ms
+ Step 26 latency: 978.5 ms
+ Step 26 latency (I/O): 0.0 ms
+ Step 27 latency: 999.9 ms
+ Step 27 latency (I/O): 0.0 ms
+ Step 28 latency: 981.7 ms
+ Step 28 latency (I/O): 0.0 ms
+ Step 29 latency: 982.7 ms
+ Step 29 latency (I/O): 0.0 ms
+ Step 30 latency: 970.7 ms
+ Step 30 latency (I/O): 0.0 ms
+ Step 31 latency: 973.6 ms
+ Step 31 latency (I/O): 0.0 ms
+ Step 32 latency: 971.9 ms
+ Step 32 latency (I/O): 0.0 ms
+ Step 33 latency: 971.3 ms
+ Step 33 latency (I/O): 0.0 ms
+ Step 34 latency: 982.7 ms
+ Step 34 latency (I/O): 0.0 ms
+ Step 35 latency: 973.9 ms
+ Step 35 latency (I/O): 0.0 ms
+ Step 36 latency: 978.2 ms
+ Step 36 latency (I/O): 0.0 ms
+ Step 37 latency: 978.3 ms
+ Step 37 latency (I/O): 0.0 ms
+ Step 38 latency: 994.5 ms
+ Step 38 latency (I/O): 0.0 ms
+ Step 39 latency: 991.7 ms
+ Step 39 latency (I/O): 0.0 ms
+ Step 40 latency: 989.2 ms
+ Step 40 latency (I/O): 0.0 ms
+ Step 41 latency: 987.7 ms
+ Step 41 latency (I/O): 0.0 ms
+ Step 42 latency: 982.3 ms
+ Step 42 latency (I/O): 0.0 ms
+ Step 43 latency: 979.1 ms
+ Step 43 latency (I/O): 0.0 ms
+ Step 44 latency: 980.9 ms
+ Step 44 latency (I/O): 0.0 ms
+ Step 45 latency: 991.2 ms
+ Step 45 latency (I/O): 0.0 ms
+ Step 46 latency: 985.7 ms
+ Step 46 latency (I/O): 0.0 ms
+ Step 47 latency: 978.4 ms
+ Step 47 latency (I/O): 0.0 ms
+ Step 48 latency: 978.5 ms
+ Step 48 latency (I/O): 0.0 ms
+ Step 49 latency: 985.6 ms
+ Step 49 latency (I/O): 0.0 ms
+ Step 50 latency: 982.4 ms
+ Step 50 latency (I/O): 0.0 ms
+ Step 51 latency: 981.4 ms
+ Step 51 latency (I/O): 0.0 ms
+ Step 52 latency: 982.4 ms
+ Step 52 latency (I/O): 0.0 ms
+ Step 53 latency: 984.5 ms
+ Step 53 latency (I/O): 0.0 ms
+ Step 54 latency: 984.9 ms
+ Step 54 latency (I/O): 0.0 ms
+ Step 55 latency: 978.9 ms
+ Step 55 latency (I/O): 0.0 ms
+ Step 56 latency: 984.2 ms
+ Step 56 latency (I/O): 0.0 ms
+ Step 57 latency: 988.2 ms
+ Step 57 latency (I/O): 0.0 ms
+ Step 58 latency: 985.3 ms
+ Step 58 latency (I/O): 0.0 ms
+ Step 59 latency: 987.2 ms
+ Step 59 latency (I/O): 0.0 ms
+ Step 60 latency: 981.7 ms
+ Step 60 latency (I/O): 0.0 ms
+ Step 61 latency: 986.8 ms
+ Step 61 latency (I/O): 0.0 ms
+ Step 62 latency: 984.7 ms
+ Step 62 latency (I/O): 0.0 ms
+ Step 63 latency: 985.2 ms
+ Step 63 latency (I/O): 0.0 ms
+ Step 64 latency: 985.5 ms
+ Step 64 latency (I/O): 0.0 ms
+ Step 65 latency: 984.0 ms
+ Step 65 latency (I/O): 0.0 ms
+ Step 66 latency: 989.4 ms
+ Step 66 latency (I/O): 0.0 ms
+ Step 67 latency: 985.5 ms
+ Step 67 latency (I/O): 0.0 ms
+ Step 68 latency: 985.7 ms
+ Step 68 latency (I/O): 0.0 ms
+ Step 69 latency: 989.5 ms
+ Step 69 latency (I/O): 0.0 ms
+ Step 70 latency: 988.1 ms
+ Step 70 latency (I/O): 0.0 ms
+ Step 71 latency: 989.6 ms
+ Step 71 latency (I/O): 0.0 ms
+ Step 72 latency: 987.0 ms
+ Step 72 latency (I/O): 0.0 ms
+ Step 73 latency: 986.9 ms
+ Step 73 latency (I/O): 0.0 ms
+ Step 74 latency: 981.8 ms
+ Step 74 latency (I/O): 0.0 ms
+ Step 75 latency: 986.3 ms
+ Step 75 latency (I/O): 0.0 ms
+ Step 76 latency: 989.0 ms
+ Step 76 latency (I/O): 0.0 ms
+ Step 77 latency: 984.8 ms
+ Step 77 latency (I/O): 0.0 ms
+ Step 78 latency: 990.7 ms
+ Step 78 latency (I/O): 0.0 ms
+ Step 79 latency: 1200.7 ms
+ Step 79 latency (I/O): 0.0 ms
+ Step 80 latency: 986.3 ms
+ Step 80 latency (I/O): 0.0 ms
+ Step 81 latency: 988.1 ms
+ Step 81 latency (I/O): 0.0 ms
+ Step 82 latency: 985.3 ms
+ Step 82 latency (I/O): 0.0 ms
+ Step 83 latency: 986.3 ms
+ Step 83 latency (I/O): 0.0 ms
+ Step 84 latency: 990.0 ms
+ Step 84 latency (I/O): 0.0 ms
+ Step 85 latency: 988.1 ms
+ Step 85 latency (I/O): 0.0 ms
+ Step 86 latency: 987.5 ms
+ Step 86 latency (I/O): 0.0 ms
+ Step 87 latency: 987.3 ms
+ Step 87 latency (I/O): 0.0 ms
+ Step 88 latency: 995.4 ms
+ Step 88 latency (I/O): 0.0 ms
+ Step 89 latency: 998.9 ms
+ Step 89 latency (I/O): 0.0 ms
+ Step 90 latency: 989.1 ms
+ Step 90 latency (I/O): 0.0 ms
+ Step 91 latency: 990.3 ms
+ Step 91 latency (I/O): 0.0 ms
+ Step 92 latency: 987.5 ms
+ Step 92 latency (I/O): 0.0 ms
+ Step 93 latency: 990.6 ms
+ Step 93 latency (I/O): 0.0 ms
+ Step 94 latency: 992.3 ms
+ Step 94 latency (I/O): 0.0 ms
+ Step 95 latency: 990.1 ms
+ Step 95 latency (I/O): 0.0 ms
+ Step 96 latency: 991.7 ms
+ Step 96 latency (I/O): 0.0 ms
+ Step 97 latency: 988.3 ms
+ Step 97 latency (I/O): 0.0 ms
+ Step 98 latency: 989.0 ms
+ Step 98 latency (I/O): 0.0 ms
+ Step 99 latency: 990.2 ms
+ Step 99 latency (I/O): 0.0 ms
+ Step 100 latency: 992.1 ms
+ Step 100 latency (I/O): 0.0 ms
+ Step 101 latency: 990.4 ms
+ Step 101 latency (I/O): 0.0 ms
+ Step 102 latency: 989.0 ms
+ Step 102 latency (I/O): 0.0 ms
+ Step 103 latency: 989.3 ms
+ Step 103 latency (I/O): 0.0 ms
+ Step 104 latency: 991.3 ms
+ Step 104 latency (I/O): 0.0 ms
+ Step 105 latency: 988.7 ms
+ Step 105 latency (I/O): 0.0 ms
+ Step 106 latency: 991.5 ms
+ Step 106 latency (I/O): 0.0 ms
+ Step 107 latency: 986.5 ms
+ Step 107 latency (I/O): 0.0 ms
+ Step 108 latency: 991.8 ms
+ Step 108 latency (I/O): 0.0 ms
+ Step 109 latency: 991.8 ms
+ Step 109 latency (I/O): 0.0 ms
+ Step 110 latency: 991.5 ms
+ Step 110 latency (I/O): 0.0 ms
+ Step 111 latency: 989.7 ms
+ Step 111 latency (I/O): 0.0 ms
+ Step 112 latency: 986.1 ms
+ Step 112 latency (I/O): 0.0 ms
+ Step 113 latency: 990.4 ms
+ Step 113 latency (I/O): 0.0 ms
+ Step 114 latency: 987.9 ms
+ Step 114 latency (I/O): 0.0 ms
+ Step 115 latency: 990.7 ms
+ Step 115 latency (I/O): 0.0 ms
+ Step 116 latency: 991.5 ms
+ Step 116 latency (I/O): 0.0 ms
+ Step 117 latency: 987.7 ms
+ Step 117 latency (I/O): 0.0 ms
+ Step 118 latency: 987.8 ms
+ Step 118 latency (I/O): 0.0 ms
+ Step 119 latency: 988.6 ms
+ Step 119 latency (I/O): 0.0 ms
+ Step 120 latency: 990.4 ms
+ Step 120 latency (I/O): 0.0 ms
+ Step 121 latency: 987.1 ms
+ Step 121 latency (I/O): 0.0 ms
+ Step 122 latency: 983.1 ms
+ Step 122 latency (I/O): 0.0 ms
+ Step 123 latency: 989.2 ms
+ Step 123 latency (I/O): 0.0 ms
+ Step 124 latency: 987.6 ms
+ Step 124 latency (I/O): 0.0 ms
+ Step 125 latency: 989.3 ms
+ Step 125 latency (I/O): 0.0 ms
+ Step 126 latency: 990.4 ms
+ Step 126 latency (I/O): 0.0 ms
+ Step 127 latency: 984.5 ms
+ Step 127 latency (I/O): 0.0 ms
+ Step 128 latency: 987.8 ms
+ Step 128 latency (I/O): 0.0 ms
+ Step 129 latency: 990.6 ms
+ Step 129 latency (I/O): 0.0 ms
+ Step 130 latency: 992.4 ms
+ Step 130 latency (I/O): 0.0 ms
+ Step 131 latency: 990.5 ms
+ Step 131 latency (I/O): 0.0 ms
+ Step 132 latency: 987.8 ms
+ Step 132 latency (I/O): 0.0 ms
+ Step 133 latency: 997.3 ms
+ Step 133 latency (I/O): 0.0 ms
+ Step 134 latency: 988.3 ms
+ Step 134 latency (I/O): 0.0 ms
+ Step 135 latency: 992.5 ms
+ Step 135 latency (I/O): 0.0 ms
+ Step 136 latency: 988.2 ms
+ Step 136 latency (I/O): 0.0 ms
+ Step 137 latency: 986.9 ms
+ Step 137 latency (I/O): 0.0 ms
+ Step 138 latency: 990.1 ms
+ Step 138 latency (I/O): 0.0 ms
+ Step 139 latency: 989.4 ms
+ Step 139 latency (I/O): 0.0 ms
+ Step 140 latency: 1256.8 ms
+ Step 140 latency (I/O): 0.0 ms
+ Step 141 latency: 990.1 ms
+ Step 141 latency (I/O): 0.0 ms
+ Step 142 latency: 987.1 ms
+ Step 142 latency (I/O): 0.0 ms
+ Step 143 latency: 991.6 ms
+ Step 143 latency (I/O): 0.0 ms
+ Step 144 latency: 990.1 ms
+ Step 144 latency (I/O): 0.0 ms
+ Step 145 latency: 988.0 ms
+ Step 145 latency (I/O): 0.0 ms
+ Step 146 latency: 989.6 ms
+ Step 146 latency (I/O): 0.0 ms
+ Step 147 latency: 985.6 ms
+ Step 147 latency (I/O): 0.0 ms
+ Step 148 latency: 987.4 ms
+ Step 148 latency (I/O): 0.0 ms
+ Step 149 latency: 990.7 ms
+ Step 149 latency (I/O): 0.0 ms
+ Step 150 latency: 989.2 ms
+ Step 150 latency (I/O): 0.0 ms
+ Step 151 latency: 998.2 ms
+ Step 151 latency (I/O): 0.0 ms
+ Step 152 latency: 1020.1 ms
+ Step 152 latency (I/O): 0.0 ms
+ Step 153 latency: 1038.6 ms
+ Step 153 latency (I/O): 0.0 ms
+ Step 154 latency: 1038.7 ms
+ Step 154 latency (I/O): 0.0 ms
+ Step 155 latency: 1005.0 ms
+ Step 155 latency (I/O): 0.0 ms
+ Step 156 latency: 1007.2 ms
+ Step 156 latency (I/O): 0.0 ms
+ Step 157 latency: 1007.0 ms
+ Step 157 latency (I/O): 0.0 ms
+ Step 158 latency: 1023.1 ms
+ Step 158 latency (I/O): 0.0 ms
+ Step 159 latency: 1012.7 ms
+ Step 159 latency (I/O): 0.0 ms
+ Step 160 latency: 1014.4 ms
+ Step 160 latency (I/O): 0.0 ms
+ Step 161 latency: 1000.3 ms
+ Step 161 latency (I/O): 0.0 ms
+ Step 162 latency: 1001.0 ms
+ Step 162 latency (I/O): 0.0 ms
+ Step 163 latency: 1008.1 ms
+ Step 163 latency (I/O): 0.0 ms
+ Step 164 latency: 1031.8 ms
+ Step 164 latency (I/O): 0.0 ms
+ Step 165 latency: 1007.4 ms
+ Step 165 latency (I/O): 0.0 ms
+ Step 166 latency: 995.3 ms
+ Step 166 latency (I/O): 0.0 ms
+ Step 167 latency: 994.4 ms
+ Step 167 latency (I/O): 0.0 ms
+ Step 168 latency: 994.5 ms
+ Step 168 latency (I/O): 0.0 ms
+ Step 169 latency: 994.9 ms
+ Step 169 latency (I/O): 0.0 ms
+ Step 170 latency: 990.7 ms
+ Step 170 latency (I/O): 0.0 ms
+Saved rollout MP4 at path ./rollouts/2025_05_14/2025_05_14-16_56_42--episode=260--success=True--task=pick_up_the_book_and_place_it_in_the_back_compartm.mp4
+Episode 11 average get_action latency: 993.8 ms over 170 steps
+Success: True
+# episodes completed so far: 260
+# successes: 132 (50.8%)
+Current task success rate: 0.1
+Current total success rate: 0.5076923076923077

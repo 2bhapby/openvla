@@ -1,0 +1,88 @@
+{
+  "tasks": {
+    "pick_up_the_black_bowl_between_the_plate_and_the_r": {
+      "start_episode": 1,
+      "successes": 43,
+      "failures": 7,
+      "avg_steps_success": 84.32558139534883,
+      "avg_steps_failure": 220.0,
+      "success_rate": 0.86
+    },
+    "pick_up_the_black_bowl_next_to_the_ramekin_and_pla": {
+      "start_episode": 51,
+      "successes": 47,
+      "failures": 3,
+      "avg_steps_success": 114.7872340425532,
+      "avg_steps_failure": 220.0,
+      "success_rate": 0.94
+    },
+    "pick_up_the_black_bowl_from_table_center_and_place": {
+      "start_episode": 101,
+      "successes": 47,
+      "failures": 3,
+      "avg_steps_success": 109.27659574468085,
+      "avg_steps_failure": 220.0,
+      "success_rate": 0.94
+    },
+    "pick_up_the_black_bowl_on_the_cookie_box_and_place": {
+      "start_episode": 151,
+      "successes": 47,
+      "failures": 3,
+      "avg_steps_success": 84.14893617021276,
+      "avg_steps_failure": 220.0,
+      "success_rate": 0.94
+    },
+    "pick_up_the_black_bowl_in_the_top_drawer_of_the_wo": {
+      "start_episode": 201,
+      "successes": 34,
+      "failures": 16,
+      "avg_steps_success": 131.41176470588235,
+      "avg_steps_failure": 220.0,
+      "success_rate": 0.68
+    },
+    "pick_up_the_black_bowl_on_the_ramekin_and_place_it": {
+      "start_episode": 251,
+      "successes": 47,
+      "failures": 3,
+      "avg_steps_success": 108.85106382978724,
+      "avg_steps_failure": 220.0,
+      "success_rate": 0.94
+    },
+    "pick_up_the_black_bowl_next_to_the_cookie_box_and_": {
+      "start_episode": 301,
+      "successes": 46,
+      "failures": 4,
+      "avg_steps_success": 111.56521739130434,
+      "avg_steps_failure": 220.0,
+      "success_rate": 0.92
+    },
+    "pick_up_the_black_bowl_on_the_stove_and_place_it_o": {
+      "start_episode": 351,
+      "successes": 43,
+      "failures": 7,
+      "avg_steps_success": 122.67441860465117,
+      "avg_steps_failure": 220.0,
+      "success_rate": 0.86
+    },
+    "pick_up_the_black_bowl_next_to_the_plate_and_place": {
+      "start_episode": 401,
+      "successes": 39,
+      "failures": 11,
+      "avg_steps_success": 105.8974358974359,
+      "avg_steps_failure": 220.0,
+      "success_rate": 0.78
+    },
+    "pick_up_the_black_bowl_on_the_wooden_cabinet_and_p": {
+      "start_episode": 451,
+      "successes": 32,
+      "failures": 18,
+      "avg_steps_success": 123.46875,
+      "avg_steps_failure": 220.0,
+      "success_rate": 0.64
+    }
+  },
+  "total_success": 425,
+  "total_failures": 75,
+  "total_success_rate": 0.85,
+  "total_steps_success": 108.66823529411765
+}

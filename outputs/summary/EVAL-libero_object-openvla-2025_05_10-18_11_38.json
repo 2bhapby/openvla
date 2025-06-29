@@ -1,0 +1,88 @@
+{
+  "tasks": {
+    "pick_up_the_alphabet_soup_and_place_it_in_the_bask": {
+      "start_episode": 1,
+      "successes": 42,
+      "failures": 8,
+      "avg_steps_success": 161.07142857142858,
+      "avg_steps_failure": 280.0,
+      "success_rate": 0.84
+    },
+    "pick_up_the_cream_cheese_and_place_it_in_the_baske": {
+      "start_episode": 51,
+      "successes": 37,
+      "failures": 13,
+      "avg_steps_success": 147.9189189189189,
+      "avg_steps_failure": 280.0,
+      "success_rate": 0.74
+    },
+    "pick_up_the_salad_dressing_and_place_it_in_the_bas": {
+      "start_episode": 101,
+      "successes": 47,
+      "failures": 3,
+      "avg_steps_success": 131.3404255319149,
+      "avg_steps_failure": 280.0,
+      "success_rate": 0.94
+    },
+    "pick_up_the_bbq_sauce_and_place_it_in_the_basket": {
+      "start_episode": 151,
+      "successes": 32,
+      "failures": 18,
+      "avg_steps_success": 147.5,
+      "avg_steps_failure": 280.0,
+      "success_rate": 0.64
+    },
+    "pick_up_the_ketchup_and_place_it_in_the_basket": {
+      "start_episode": 201,
+      "successes": 45,
+      "failures": 5,
+      "avg_steps_success": 148.9111111111111,
+      "avg_steps_failure": 280.0,
+      "success_rate": 0.9
+    },
+    "pick_up_the_tomato_sauce_and_place_it_in_the_baske": {
+      "start_episode": 251,
+      "successes": 42,
+      "failures": 8,
+      "avg_steps_success": 154.28571428571428,
+      "avg_steps_failure": 280.0,
+      "success_rate": 0.84
+    },
+    "pick_up_the_butter_and_place_it_in_the_basket": {
+      "start_episode": 301,
+      "successes": 44,
+      "failures": 6,
+      "avg_steps_success": 157.04545454545453,
+      "avg_steps_failure": 280.0,
+      "success_rate": 0.88
+    },
+    "pick_up_the_milk_and_place_it_in_the_basket": {
+      "start_episode": 351,
+      "successes": 47,
+      "failures": 3,
+      "avg_steps_success": 138.5744680851064,
+      "avg_steps_failure": 280.0,
+      "success_rate": 0.94
+    },
+    "pick_up_the_chocolate_pudding_and_place_it_in_the_": {
+      "start_episode": 401,
+      "successes": 48,
+      "failures": 2,
+      "avg_steps_success": 168.4375,
+      "avg_steps_failure": 280.0,
+      "success_rate": 0.96
+    },
+    "pick_up_the_orange_juice_and_place_it_in_the_baske": {
+      "start_episode": 451,
+      "successes": 49,
+      "failures": 1,
+      "avg_steps_success": 129.40816326530611,
+      "avg_steps_failure": 280.0,
+      "success_rate": 0.98
+    }
+  },
+  "total_success": 433,
+  "total_failures": 67,
+  "total_success_rate": 0.866,
+  "total_steps_success": 148.17782909930716
+}

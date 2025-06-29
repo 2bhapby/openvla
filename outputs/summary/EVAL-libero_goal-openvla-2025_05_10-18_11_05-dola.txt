@@ -1,0 +1,2531 @@
+Task: open the middle drawer of the cabinet
+195 steps
+# episodes completed so far: 1
+# successes: 1 (100.0%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 2
+# successes: 1 (50.0%)
+
+Task: open the middle drawer of the cabinet
+126 steps
+# episodes completed so far: 3
+# successes: 2 (66.7%)
+
+Task: open the middle drawer of the cabinet
+207 steps
+# episodes completed so far: 4
+# successes: 3 (75.0%)
+
+Task: open the middle drawer of the cabinet
+130 steps
+# episodes completed so far: 5
+# successes: 4 (80.0%)
+
+Task: open the middle drawer of the cabinet
+130 steps
+# episodes completed so far: 6
+# successes: 5 (83.3%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 7
+# successes: 5 (71.4%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 8
+# successes: 5 (62.5%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 9
+# successes: 5 (55.6%)
+
+Task: open the middle drawer of the cabinet
+103 steps
+# episodes completed so far: 10
+# successes: 6 (60.0%)
+
+Task: open the middle drawer of the cabinet
+121 steps
+# episodes completed so far: 11
+# successes: 7 (63.6%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 12
+# successes: 7 (58.3%)
+
+Task: open the middle drawer of the cabinet
+111 steps
+# episodes completed so far: 13
+# successes: 8 (61.5%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 14
+# successes: 8 (57.1%)
+
+Task: open the middle drawer of the cabinet
+289 steps
+# episodes completed so far: 15
+# successes: 9 (60.0%)
+
+Task: open the middle drawer of the cabinet
+118 steps
+# episodes completed so far: 16
+# successes: 10 (62.5%)
+
+Task: open the middle drawer of the cabinet
+126 steps
+# episodes completed so far: 17
+# successes: 11 (64.7%)
+
+Task: open the middle drawer of the cabinet
+149 steps
+# episodes completed so far: 18
+# successes: 12 (66.7%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 19
+# successes: 12 (63.2%)
+
+Task: open the middle drawer of the cabinet
+124 steps
+# episodes completed so far: 20
+# successes: 13 (65.0%)
+
+Task: open the middle drawer of the cabinet
+111 steps
+# episodes completed so far: 21
+# successes: 14 (66.7%)
+
+Task: open the middle drawer of the cabinet
+120 steps
+# episodes completed so far: 22
+# successes: 15 (68.2%)
+
+Task: open the middle drawer of the cabinet
+214 steps
+# episodes completed so far: 23
+# successes: 16 (69.6%)
+
+Task: open the middle drawer of the cabinet
+124 steps
+# episodes completed so far: 24
+# successes: 17 (70.8%)
+
+Task: open the middle drawer of the cabinet
+116 steps
+# episodes completed so far: 25
+# successes: 18 (72.0%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 26
+# successes: 18 (69.2%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 27
+# successes: 18 (66.7%)
+
+Task: open the middle drawer of the cabinet
+112 steps
+# episodes completed so far: 28
+# successes: 19 (67.9%)
+
+Task: open the middle drawer of the cabinet
+153 steps
+# episodes completed so far: 29
+# successes: 20 (69.0%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 30
+# successes: 20 (66.7%)
+
+Task: open the middle drawer of the cabinet
+123 steps
+# episodes completed so far: 31
+# successes: 21 (67.7%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 32
+# successes: 21 (65.6%)
+
+Task: open the middle drawer of the cabinet
+126 steps
+# episodes completed so far: 33
+# successes: 22 (66.7%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 34
+# successes: 22 (64.7%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 35
+# successes: 22 (62.9%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 36
+# successes: 22 (61.1%)
+
+Task: open the middle drawer of the cabinet
+147 steps
+# episodes completed so far: 37
+# successes: 23 (62.2%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 38
+# successes: 23 (60.5%)
+
+Task: open the middle drawer of the cabinet
+158 steps
+# episodes completed so far: 39
+# successes: 24 (61.5%)
+
+Task: open the middle drawer of the cabinet
+133 steps
+# episodes completed so far: 40
+# successes: 25 (62.5%)
+
+Task: open the middle drawer of the cabinet
+122 steps
+# episodes completed so far: 41
+# successes: 26 (63.4%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 42
+# successes: 26 (61.9%)
+
+Task: open the middle drawer of the cabinet
+144 steps
+# episodes completed so far: 43
+# successes: 27 (62.8%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 44
+# successes: 27 (61.4%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 45
+# successes: 27 (60.0%)
+
+Task: open the middle drawer of the cabinet
+138 steps
+# episodes completed so far: 46
+# successes: 28 (60.9%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 47
+# successes: 28 (59.6%)
+
+Task: open the middle drawer of the cabinet
+242 steps
+# episodes completed so far: 48
+# successes: 29 (60.4%)
+
+Task: open the middle drawer of the cabinet
+300 steps
+# episodes completed so far: 49
+# successes: 29 (59.2%)
+
+Task: open the middle drawer of the cabinet
+227 steps
+# episodes completed so far: 50
+# successes: 30 (60.0%)
+
+Current task success rate: 0.6
+Current total success rate: 0.6
+
+Task: put the bowl on the stove
+81 steps
+# episodes completed so far: 51
+# successes: 31 (60.8%)
+
+Task: put the bowl on the stove
+81 steps
+# episodes completed so far: 52
+# successes: 32 (61.5%)
+
+Task: put the bowl on the stove
+78 steps
+# episodes completed so far: 53
+# successes: 33 (62.3%)
+
+Task: put the bowl on the stove
+84 steps
+# episodes completed so far: 54
+# successes: 34 (63.0%)
+
+Task: put the bowl on the stove
+86 steps
+# episodes completed so far: 55
+# successes: 35 (63.6%)
+
+Task: put the bowl on the stove
+95 steps
+# episodes completed so far: 56
+# successes: 36 (64.3%)
+
+Task: put the bowl on the stove
+300 steps
+# episodes completed so far: 57
+# successes: 36 (63.2%)
+
+Task: put the bowl on the stove
+78 steps
+# episodes completed so far: 58
+# successes: 37 (63.8%)
+
+Task: put the bowl on the stove
+81 steps
+# episodes completed so far: 59
+# successes: 38 (64.4%)
+
+Task: put the bowl on the stove
+87 steps
+# episodes completed so far: 60
+# successes: 39 (65.0%)
+
+Task: put the bowl on the stove
+90 steps
+# episodes completed so far: 61
+# successes: 40 (65.6%)
+
+Task: put the bowl on the stove
+103 steps
+# episodes completed so far: 62
+# successes: 41 (66.1%)
+
+Task: put the bowl on the stove
+300 steps
+# episodes completed so far: 63
+# successes: 41 (65.1%)
+
+Task: put the bowl on the stove
+82 steps
+# episodes completed so far: 64
+# successes: 42 (65.6%)
+
+Task: put the bowl on the stove
+81 steps
+# episodes completed so far: 65
+# successes: 43 (66.2%)
+
+Task: put the bowl on the stove
+96 steps
+# episodes completed so far: 66
+# successes: 44 (66.7%)
+
+Task: put the bowl on the stove
+86 steps
+# episodes completed so far: 67
+# successes: 45 (67.2%)
+
+Task: put the bowl on the stove
+94 steps
+# episodes completed so far: 68
+# successes: 46 (67.6%)
+
+Task: put the bowl on the stove
+87 steps
+# episodes completed so far: 69
+# successes: 47 (68.1%)
+
+Task: put the bowl on the stove
+86 steps
+# episodes completed so far: 70
+# successes: 48 (68.6%)
+
+Task: put the bowl on the stove
+86 steps
+# episodes completed so far: 71
+# successes: 49 (69.0%)
+
+Task: put the bowl on the stove
+90 steps
+# episodes completed so far: 72
+# successes: 50 (69.4%)
+
+Task: put the bowl on the stove
+85 steps
+# episodes completed so far: 73
+# successes: 51 (69.9%)
+
+Task: put the bowl on the stove
+132 steps
+# episodes completed so far: 74
+# successes: 52 (70.3%)
+
+Task: put the bowl on the stove
+97 steps
+# episodes completed so far: 75
+# successes: 53 (70.7%)
+
+Task: put the bowl on the stove
+107 steps
+# episodes completed so far: 76
+# successes: 54 (71.1%)
+
+Task: put the bowl on the stove
+80 steps
+# episodes completed so far: 77
+# successes: 55 (71.4%)
+
+Task: put the bowl on the stove
+85 steps
+# episodes completed so far: 78
+# successes: 56 (71.8%)
+
+Task: put the bowl on the stove
+95 steps
+# episodes completed so far: 79
+# successes: 57 (72.2%)
+
+Task: put the bowl on the stove
+94 steps
+# episodes completed so far: 80
+# successes: 58 (72.5%)
+
+Task: put the bowl on the stove
+109 steps
+# episodes completed so far: 81
+# successes: 59 (72.8%)
+
+Task: put the bowl on the stove
+91 steps
+# episodes completed so far: 82
+# successes: 60 (73.2%)
+
+Task: put the bowl on the stove
+300 steps
+# episodes completed so far: 83
+# successes: 60 (72.3%)
+
+Task: put the bowl on the stove
+98 steps
+# episodes completed so far: 84
+# successes: 61 (72.6%)
+
+Task: put the bowl on the stove
+86 steps
+# episodes completed so far: 85
+# successes: 62 (72.9%)
+
+Task: put the bowl on the stove
+87 steps
+# episodes completed so far: 86
+# successes: 63 (73.3%)
+
+Task: put the bowl on the stove
+85 steps
+# episodes completed so far: 87
+# successes: 64 (73.6%)
+
+Task: put the bowl on the stove
+81 steps
+# episodes completed so far: 88
+# successes: 65 (73.9%)
+
+Task: put the bowl on the stove
+102 steps
+# episodes completed so far: 89
+# successes: 66 (74.2%)
+
+Task: put the bowl on the stove
+95 steps
+# episodes completed so far: 90
+# successes: 67 (74.4%)
+
+Task: put the bowl on the stove
+300 steps
+# episodes completed so far: 91
+# successes: 67 (73.6%)
+
+Task: put the bowl on the stove
+86 steps
+# episodes completed so far: 92
+# successes: 68 (73.9%)
+
+Task: put the bowl on the stove
+94 steps
+# episodes completed so far: 93
+# successes: 69 (74.2%)
+
+Task: put the bowl on the stove
+300 steps
+# episodes completed so far: 94
+# successes: 69 (73.4%)
+
+Task: put the bowl on the stove
+97 steps
+# episodes completed so far: 95
+# successes: 70 (73.7%)
+
+Task: put the bowl on the stove
+83 steps
+# episodes completed so far: 96
+# successes: 71 (74.0%)
+
+Task: put the bowl on the stove
+144 steps
+# episodes completed so far: 97
+# successes: 72 (74.2%)
+
+Task: put the bowl on the stove
+95 steps
+# episodes completed so far: 98
+# successes: 73 (74.5%)
+
+Task: put the bowl on the stove
+93 steps
+# episodes completed so far: 99
+# successes: 74 (74.7%)
+
+Task: put the bowl on the stove
+86 steps
+# episodes completed so far: 100
+# successes: 75 (75.0%)
+
+Current task success rate: 0.9
+Current total success rate: 0.75
+
+Task: put the wine bottle on top of the cabinet
+99 steps
+# episodes completed so far: 101
+# successes: 76 (75.2%)
+
+Task: put the wine bottle on top of the cabinet
+97 steps
+# episodes completed so far: 102
+# successes: 77 (75.5%)
+
+Task: put the wine bottle on top of the cabinet
+120 steps
+# episodes completed so far: 103
+# successes: 78 (75.7%)
+
+Task: put the wine bottle on top of the cabinet
+128 steps
+# episodes completed so far: 104
+# successes: 79 (76.0%)
+
+Task: put the wine bottle on top of the cabinet
+76 steps
+# episodes completed so far: 105
+# successes: 80 (76.2%)
+
+Task: put the wine bottle on top of the cabinet
+88 steps
+# episodes completed so far: 106
+# successes: 81 (76.4%)
+
+Task: put the wine bottle on top of the cabinet
+84 steps
+# episodes completed so far: 107
+# successes: 82 (76.6%)
+
+Task: put the wine bottle on top of the cabinet
+100 steps
+# episodes completed so far: 108
+# successes: 83 (76.9%)
+
+Task: put the wine bottle on top of the cabinet
+300 steps
+# episodes completed so far: 109
+# successes: 83 (76.1%)
+
+Task: put the wine bottle on top of the cabinet
+106 steps
+# episodes completed so far: 110
+# successes: 84 (76.4%)
+
+Task: put the wine bottle on top of the cabinet
+86 steps
+# episodes completed so far: 111
+# successes: 85 (76.6%)
+
+Task: put the wine bottle on top of the cabinet
+83 steps
+# episodes completed so far: 112
+# successes: 86 (76.8%)
+
+Task: put the wine bottle on top of the cabinet
+96 steps
+# episodes completed so far: 113
+# successes: 87 (77.0%)
+
+Task: put the wine bottle on top of the cabinet
+300 steps
+# episodes completed so far: 114
+# successes: 87 (76.3%)
+
+Task: put the wine bottle on top of the cabinet
+91 steps
+# episodes completed so far: 115
+# successes: 88 (76.5%)
+
+Task: put the wine bottle on top of the cabinet
+145 steps
+# episodes completed so far: 116
+# successes: 89 (76.7%)
+
+Task: put the wine bottle on top of the cabinet
+116 steps
+# episodes completed so far: 117
+# successes: 90 (76.9%)
+
+Task: put the wine bottle on top of the cabinet
+270 steps
+# episodes completed so far: 118
+# successes: 91 (77.1%)
+
+Task: put the wine bottle on top of the cabinet
+93 steps
+# episodes completed so far: 119
+# successes: 92 (77.3%)
+
+Task: put the wine bottle on top of the cabinet
+78 steps
+# episodes completed so far: 120
+# successes: 93 (77.5%)
+
+Task: put the wine bottle on top of the cabinet
+100 steps
+# episodes completed so far: 121
+# successes: 94 (77.7%)
+
+Task: put the wine bottle on top of the cabinet
+88 steps
+# episodes completed so far: 122
+# successes: 95 (77.9%)
+
+Task: put the wine bottle on top of the cabinet
+273 steps
+# episodes completed so far: 123
+# successes: 96 (78.0%)
+
+Task: put the wine bottle on top of the cabinet
+300 steps
+# episodes completed so far: 124
+# successes: 96 (77.4%)
+
+Task: put the wine bottle on top of the cabinet
+80 steps
+# episodes completed so far: 125
+# successes: 97 (77.6%)
+
+Task: put the wine bottle on top of the cabinet
+85 steps
+# episodes completed so far: 126
+# successes: 98 (77.8%)
+
+Task: put the wine bottle on top of the cabinet
+109 steps
+# episodes completed so far: 127
+# successes: 99 (78.0%)
+
+Task: put the wine bottle on top of the cabinet
+110 steps
+# episodes completed so far: 128
+# successes: 100 (78.1%)
+
+Task: put the wine bottle on top of the cabinet
+300 steps
+# episodes completed so far: 129
+# successes: 100 (77.5%)
+
+Task: put the wine bottle on top of the cabinet
+74 steps
+# episodes completed so far: 130
+# successes: 101 (77.7%)
+
+Task: put the wine bottle on top of the cabinet
+94 steps
+# episodes completed so far: 131
+# successes: 102 (77.9%)
+
+Task: put the wine bottle on top of the cabinet
+102 steps
+# episodes completed so far: 132
+# successes: 103 (78.0%)
+
+Task: put the wine bottle on top of the cabinet
+74 steps
+# episodes completed so far: 133
+# successes: 104 (78.2%)
+
+Task: put the wine bottle on top of the cabinet
+72 steps
+# episodes completed so far: 134
+# successes: 105 (78.4%)
+
+Task: put the wine bottle on top of the cabinet
+268 steps
+# episodes completed so far: 135
+# successes: 106 (78.5%)
+
+Task: put the wine bottle on top of the cabinet
+91 steps
+# episodes completed so far: 136
+# successes: 107 (78.7%)
+
+Task: put the wine bottle on top of the cabinet
+137 steps
+# episodes completed so far: 137
+# successes: 108 (78.8%)
+
+Task: put the wine bottle on top of the cabinet
+108 steps
+# episodes completed so far: 138
+# successes: 109 (79.0%)
+
+Task: put the wine bottle on top of the cabinet
+115 steps
+# episodes completed so far: 139
+# successes: 110 (79.1%)
+
+Task: put the wine bottle on top of the cabinet
+300 steps
+# episodes completed so far: 140
+# successes: 110 (78.6%)
+
+Task: put the wine bottle on top of the cabinet
+76 steps
+# episodes completed so far: 141
+# successes: 111 (78.7%)
+
+Task: put the wine bottle on top of the cabinet
+84 steps
+# episodes completed so far: 142
+# successes: 112 (78.9%)
+
+Task: put the wine bottle on top of the cabinet
+98 steps
+# episodes completed so far: 143
+# successes: 113 (79.0%)
+
+Task: put the wine bottle on top of the cabinet
+98 steps
+# episodes completed so far: 144
+# successes: 114 (79.2%)
+
+Task: put the wine bottle on top of the cabinet
+77 steps
+# episodes completed so far: 145
+# successes: 115 (79.3%)
+
+Task: put the wine bottle on top of the cabinet
+84 steps
+# episodes completed so far: 146
+# successes: 116 (79.5%)
+
+Task: put the wine bottle on top of the cabinet
+300 steps
+# episodes completed so far: 147
+# successes: 116 (78.9%)
+
+Task: put the wine bottle on top of the cabinet
+94 steps
+# episodes completed so far: 148
+# successes: 117 (79.1%)
+
+Task: put the wine bottle on top of the cabinet
+106 steps
+# episodes completed so far: 149
+# successes: 118 (79.2%)
+
+Task: put the wine bottle on top of the cabinet
+105 steps
+# episodes completed so far: 150
+# successes: 119 (79.3%)
+
+Current task success rate: 0.88
+Current total success rate: 0.7933333333333333
+
+Task: open the top drawer and put the bowl inside
+186 steps
+# episodes completed so far: 151
+# successes: 120 (79.5%)
+
+Task: open the top drawer and put the bowl inside
+213 steps
+# episodes completed so far: 152
+# successes: 121 (79.6%)
+
+Task: open the top drawer and put the bowl inside
+185 steps
+# episodes completed so far: 153
+# successes: 122 (79.7%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 154
+# successes: 122 (79.2%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 155
+# successes: 122 (78.7%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 156
+# successes: 122 (78.2%)
+
+Task: open the top drawer and put the bowl inside
+184 steps
+# episodes completed so far: 157
+# successes: 123 (78.3%)
+
+Task: open the top drawer and put the bowl inside
+177 steps
+# episodes completed so far: 158
+# successes: 124 (78.5%)
+
+Task: open the top drawer and put the bowl inside
+193 steps
+# episodes completed so far: 159
+# successes: 125 (78.6%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 160
+# successes: 125 (78.1%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 161
+# successes: 125 (77.6%)
+
+Task: open the top drawer and put the bowl inside
+188 steps
+# episodes completed so far: 162
+# successes: 126 (77.8%)
+
+Task: open the top drawer and put the bowl inside
+183 steps
+# episodes completed so far: 163
+# successes: 127 (77.9%)
+
+Task: open the top drawer and put the bowl inside
+172 steps
+# episodes completed so far: 164
+# successes: 128 (78.0%)
+
+Task: open the top drawer and put the bowl inside
+176 steps
+# episodes completed so far: 165
+# successes: 129 (78.2%)
+
+Task: open the top drawer and put the bowl inside
+226 steps
+# episodes completed so far: 166
+# successes: 130 (78.3%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 167
+# successes: 130 (77.8%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 168
+# successes: 130 (77.4%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 169
+# successes: 130 (76.9%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 170
+# successes: 130 (76.5%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 171
+# successes: 130 (76.0%)
+
+Task: open the top drawer and put the bowl inside
+175 steps
+# episodes completed so far: 172
+# successes: 131 (76.2%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 173
+# successes: 131 (75.7%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 174
+# successes: 131 (75.3%)
+
+Task: open the top drawer and put the bowl inside
+202 steps
+# episodes completed so far: 175
+# successes: 132 (75.4%)
+
+Task: open the top drawer and put the bowl inside
+218 steps
+# episodes completed so far: 176
+# successes: 133 (75.6%)
+
+Task: open the top drawer and put the bowl inside
+173 steps
+# episodes completed so far: 177
+# successes: 134 (75.7%)
+
+Task: open the top drawer and put the bowl inside
+176 steps
+# episodes completed so far: 178
+# successes: 135 (75.8%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 179
+# successes: 135 (75.4%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 180
+# successes: 135 (75.0%)
+
+Task: open the top drawer and put the bowl inside
+202 steps
+# episodes completed so far: 181
+# successes: 136 (75.1%)
+
+Task: open the top drawer and put the bowl inside
+206 steps
+# episodes completed so far: 182
+# successes: 137 (75.3%)
+
+Task: open the top drawer and put the bowl inside
+174 steps
+# episodes completed so far: 183
+# successes: 138 (75.4%)
+
+Task: open the top drawer and put the bowl inside
+205 steps
+# episodes completed so far: 184
+# successes: 139 (75.5%)
+
+Task: open the top drawer and put the bowl inside
+206 steps
+# episodes completed so far: 185
+# successes: 140 (75.7%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 186
+# successes: 140 (75.3%)
+
+Task: open the top drawer and put the bowl inside
+229 steps
+# episodes completed so far: 187
+# successes: 141 (75.4%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 188
+# successes: 141 (75.0%)
+
+Task: open the top drawer and put the bowl inside
+206 steps
+# episodes completed so far: 189
+# successes: 142 (75.1%)
+
+Task: open the top drawer and put the bowl inside
+176 steps
+# episodes completed so far: 190
+# successes: 143 (75.3%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 191
+# successes: 143 (74.9%)
+
+Task: open the top drawer and put the bowl inside
+184 steps
+# episodes completed so far: 192
+# successes: 144 (75.0%)
+
+Task: open the top drawer and put the bowl inside
+197 steps
+# episodes completed so far: 193
+# successes: 145 (75.1%)
+
+Task: open the top drawer and put the bowl inside
+158 steps
+# episodes completed so far: 194
+# successes: 146 (75.3%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 195
+# successes: 146 (74.9%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 196
+# successes: 146 (74.5%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 197
+# successes: 146 (74.1%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 198
+# successes: 146 (73.7%)
+
+Task: open the top drawer and put the bowl inside
+149 steps
+# episodes completed so far: 199
+# successes: 147 (73.9%)
+
+Task: open the top drawer and put the bowl inside
+300 steps
+# episodes completed so far: 200
+# successes: 147 (73.5%)
+
+Current task success rate: 0.56
+Current total success rate: 0.735
+
+Task: put the bowl on top of the cabinet
+138 steps
+# episodes completed so far: 201
+# successes: 148 (73.6%)
+
+Task: put the bowl on top of the cabinet
+300 steps
+# episodes completed so far: 202
+# successes: 148 (73.3%)
+
+Task: put the bowl on top of the cabinet
+112 steps
+# episodes completed so far: 203
+# successes: 149 (73.4%)
+
+Task: put the bowl on top of the cabinet
+96 steps
+# episodes completed so far: 204
+# successes: 150 (73.5%)
+
+Task: put the bowl on top of the cabinet
+78 steps
+# episodes completed so far: 205
+# successes: 151 (73.7%)
+
+Task: put the bowl on top of the cabinet
+89 steps
+# episodes completed so far: 206
+# successes: 152 (73.8%)
+
+Task: put the bowl on top of the cabinet
+91 steps
+# episodes completed so far: 207
+# successes: 153 (73.9%)
+
+Task: put the bowl on top of the cabinet
+92 steps
+# episodes completed so far: 208
+# successes: 154 (74.0%)
+
+Task: put the bowl on top of the cabinet
+75 steps
+# episodes completed so far: 209
+# successes: 155 (74.2%)
+
+Task: put the bowl on top of the cabinet
+95 steps
+# episodes completed so far: 210
+# successes: 156 (74.3%)
+
+Task: put the bowl on top of the cabinet
+95 steps
+# episodes completed so far: 211
+# successes: 157 (74.4%)
+
+Task: put the bowl on top of the cabinet
+88 steps
+# episodes completed so far: 212
+# successes: 158 (74.5%)
+
+Task: put the bowl on top of the cabinet
+86 steps
+# episodes completed so far: 213
+# successes: 159 (74.6%)
+
+Task: put the bowl on top of the cabinet
+88 steps
+# episodes completed so far: 214
+# successes: 160 (74.8%)
+
+Task: put the bowl on top of the cabinet
+189 steps
+# episodes completed so far: 215
+# successes: 161 (74.9%)
+
+Task: put the bowl on top of the cabinet
+80 steps
+# episodes completed so far: 216
+# successes: 162 (75.0%)
+
+Task: put the bowl on top of the cabinet
+79 steps
+# episodes completed so far: 217
+# successes: 163 (75.1%)
+
+Task: put the bowl on top of the cabinet
+140 steps
+# episodes completed so far: 218
+# successes: 164 (75.2%)
+
+Task: put the bowl on top of the cabinet
+103 steps
+# episodes completed so far: 219
+# successes: 165 (75.3%)
+
+Task: put the bowl on top of the cabinet
+84 steps
+# episodes completed so far: 220
+# successes: 166 (75.5%)
+
+Task: put the bowl on top of the cabinet
+97 steps
+# episodes completed so far: 221
+# successes: 167 (75.6%)
+
+Task: put the bowl on top of the cabinet
+133 steps
+# episodes completed so far: 222
+# successes: 168 (75.7%)
+
+Task: put the bowl on top of the cabinet
+86 steps
+# episodes completed so far: 223
+# successes: 169 (75.8%)
+
+Task: put the bowl on top of the cabinet
+300 steps
+# episodes completed so far: 224
+# successes: 169 (75.4%)
+
+Task: put the bowl on top of the cabinet
+86 steps
+# episodes completed so far: 225
+# successes: 170 (75.6%)
+
+Task: put the bowl on top of the cabinet
+154 steps
+# episodes completed so far: 226
+# successes: 171 (75.7%)
+
+Task: put the bowl on top of the cabinet
+103 steps
+# episodes completed so far: 227
+# successes: 172 (75.8%)
+
+Task: put the bowl on top of the cabinet
+119 steps
+# episodes completed so far: 228
+# successes: 173 (75.9%)
+
+Task: put the bowl on top of the cabinet
+300 steps
+# episodes completed so far: 229
+# successes: 173 (75.5%)
+
+Task: put the bowl on top of the cabinet
+87 steps
+# episodes completed so far: 230
+# successes: 174 (75.7%)
+
+Task: put the bowl on top of the cabinet
+300 steps
+# episodes completed so far: 231
+# successes: 174 (75.3%)
+
+Task: put the bowl on top of the cabinet
+96 steps
+# episodes completed so far: 232
+# successes: 175 (75.4%)
+
+Task: put the bowl on top of the cabinet
+84 steps
+# episodes completed so far: 233
+# successes: 176 (75.5%)
+
+Task: put the bowl on top of the cabinet
+90 steps
+# episodes completed so far: 234
+# successes: 177 (75.6%)
+
+Task: put the bowl on top of the cabinet
+90 steps
+# episodes completed so far: 235
+# successes: 178 (75.7%)
+
+Task: put the bowl on top of the cabinet
+104 steps
+# episodes completed so far: 236
+# successes: 179 (75.8%)
+
+Task: put the bowl on top of the cabinet
+90 steps
+# episodes completed so far: 237
+# successes: 180 (75.9%)
+
+Task: put the bowl on top of the cabinet
+132 steps
+# episodes completed so far: 238
+# successes: 181 (76.1%)
+
+Task: put the bowl on top of the cabinet
+90 steps
+# episodes completed so far: 239
+# successes: 182 (76.2%)
+
+Task: put the bowl on top of the cabinet
+137 steps
+# episodes completed so far: 240
+# successes: 183 (76.2%)
+
+Task: put the bowl on top of the cabinet
+164 steps
+# episodes completed so far: 241
+# successes: 184 (76.3%)
+
+Task: put the bowl on top of the cabinet
+85 steps
+# episodes completed so far: 242
+# successes: 185 (76.4%)
+
+Task: put the bowl on top of the cabinet
+86 steps
+# episodes completed so far: 243
+# successes: 186 (76.5%)
+
+Task: put the bowl on top of the cabinet
+92 steps
+# episodes completed so far: 244
+# successes: 187 (76.6%)
+
+Task: put the bowl on top of the cabinet
+97 steps
+# episodes completed so far: 245
+# successes: 188 (76.7%)
+
+Task: put the bowl on top of the cabinet
+92 steps
+# episodes completed so far: 246
+# successes: 189 (76.8%)
+
+Task: put the bowl on top of the cabinet
+86 steps
+# episodes completed so far: 247
+# successes: 190 (76.9%)
+
+Task: put the bowl on top of the cabinet
+84 steps
+# episodes completed so far: 248
+# successes: 191 (77.0%)
+
+Task: put the bowl on top of the cabinet
+111 steps
+# episodes completed so far: 249
+# successes: 192 (77.1%)
+
+Task: put the bowl on top of the cabinet
+94 steps
+# episodes completed so far: 250
+# successes: 193 (77.2%)
+
+Current task success rate: 0.92
+Current total success rate: 0.772
+
+Task: push the plate to the front of the stove
+300 steps
+# episodes completed so far: 251
+# successes: 193 (76.9%)
+
+Task: push the plate to the front of the stove
+169 steps
+# episodes completed so far: 252
+# successes: 194 (77.0%)
+
+Task: push the plate to the front of the stove
+283 steps
+# episodes completed so far: 253
+# successes: 195 (77.1%)
+
+Task: push the plate to the front of the stove
+128 steps
+# episodes completed so far: 254
+# successes: 196 (77.2%)
+
+Task: push the plate to the front of the stove
+200 steps
+# episodes completed so far: 255
+# successes: 197 (77.3%)
+
+Task: push the plate to the front of the stove
+157 steps
+# episodes completed so far: 256
+# successes: 198 (77.3%)
+
+Task: push the plate to the front of the stove
+300 steps
+# episodes completed so far: 257
+# successes: 198 (77.0%)
+
+Task: push the plate to the front of the stove
+126 steps
+# episodes completed so far: 258
+# successes: 199 (77.1%)
+
+Task: push the plate to the front of the stove
+300 steps
+# episodes completed so far: 259
+# successes: 199 (76.8%)
+
+Task: push the plate to the front of the stove
+137 steps
+# episodes completed so far: 260
+# successes: 200 (76.9%)
+
+Task: push the plate to the front of the stove
+170 steps
+# episodes completed so far: 261
+# successes: 201 (77.0%)
+
+Task: push the plate to the front of the stove
+127 steps
+# episodes completed so far: 262
+# successes: 202 (77.1%)
+
+Task: push the plate to the front of the stove
+163 steps
+# episodes completed so far: 263
+# successes: 203 (77.2%)
+
+Task: push the plate to the front of the stove
+300 steps
+# episodes completed so far: 264
+# successes: 203 (76.9%)
+
+Task: push the plate to the front of the stove
+133 steps
+# episodes completed so far: 265
+# successes: 204 (77.0%)
+
+Task: push the plate to the front of the stove
+162 steps
+# episodes completed so far: 266
+# successes: 205 (77.1%)
+
+Task: push the plate to the front of the stove
+130 steps
+# episodes completed so far: 267
+# successes: 206 (77.2%)
+
+Task: push the plate to the front of the stove
+144 steps
+# episodes completed so far: 268
+# successes: 207 (77.2%)
+
+Task: push the plate to the front of the stove
+133 steps
+# episodes completed so far: 269
+# successes: 208 (77.3%)
+
+Task: push the plate to the front of the stove
+125 steps
+# episodes completed so far: 270
+# successes: 209 (77.4%)
+
+Task: push the plate to the front of the stove
+155 steps
+# episodes completed so far: 271
+# successes: 210 (77.5%)
+
+Task: push the plate to the front of the stove
+126 steps
+# episodes completed so far: 272
+# successes: 211 (77.6%)
+
+Task: push the plate to the front of the stove
+300 steps
+# episodes completed so far: 273
+# successes: 211 (77.3%)
+
+Task: push the plate to the front of the stove
+146 steps
+# episodes completed so far: 274
+# successes: 212 (77.4%)
+
+Task: push the plate to the front of the stove
+281 steps
+# episodes completed so far: 275
+# successes: 213 (77.5%)
+
+Task: push the plate to the front of the stove
+120 steps
+# episodes completed so far: 276
+# successes: 214 (77.5%)
+
+Task: push the plate to the front of the stove
+121 steps
+# episodes completed so far: 277
+# successes: 215 (77.6%)
+
+Task: push the plate to the front of the stove
+134 steps
+# episodes completed so far: 278
+# successes: 216 (77.7%)
+
+Task: push the plate to the front of the stove
+300 steps
+# episodes completed so far: 279
+# successes: 216 (77.4%)
+
+Task: push the plate to the front of the stove
+142 steps
+# episodes completed so far: 280
+# successes: 217 (77.5%)
+
+Task: push the plate to the front of the stove
+158 steps
+# episodes completed so far: 281
+# successes: 218 (77.6%)
+
+Task: push the plate to the front of the stove
+137 steps
+# episodes completed so far: 282
+# successes: 219 (77.7%)
+
+Task: push the plate to the front of the stove
+151 steps
+# episodes completed so far: 283
+# successes: 220 (77.7%)
+
+Task: push the plate to the front of the stove
+300 steps
+# episodes completed so far: 284
+# successes: 220 (77.5%)
+
+Task: push the plate to the front of the stove
+147 steps
+# episodes completed so far: 285
+# successes: 221 (77.5%)
+
+Task: push the plate to the front of the stove
+300 steps
+# episodes completed so far: 286
+# successes: 221 (77.3%)
+
+Task: push the plate to the front of the stove
+146 steps
+# episodes completed so far: 287
+# successes: 222 (77.4%)
+
+Task: push the plate to the front of the stove
+160 steps
+# episodes completed so far: 288
+# successes: 223 (77.4%)
+
+Task: push the plate to the front of the stove
+145 steps
+# episodes completed so far: 289
+# successes: 224 (77.5%)
+
+Task: push the plate to the front of the stove
+134 steps
+# episodes completed so far: 290
+# successes: 225 (77.6%)
+
+Task: push the plate to the front of the stove
+119 steps
+# episodes completed so far: 291
+# successes: 226 (77.7%)
+
+Task: push the plate to the front of the stove
+136 steps
+# episodes completed so far: 292
+# successes: 227 (77.7%)
+
+Task: push the plate to the front of the stove
+169 steps
+# episodes completed so far: 293
+# successes: 228 (77.8%)
+
+Task: push the plate to the front of the stove
+183 steps
+# episodes completed so far: 294
+# successes: 229 (77.9%)
+
+Task: push the plate to the front of the stove
+300 steps
+# episodes completed so far: 295
+# successes: 229 (77.6%)
+
+Task: push the plate to the front of the stove
+130 steps
+# episodes completed so far: 296
+# successes: 230 (77.7%)
+
+Task: push the plate to the front of the stove
+135 steps
+# episodes completed so far: 297
+# successes: 231 (77.8%)
+
+Task: push the plate to the front of the stove
+151 steps
+# episodes completed so far: 298
+# successes: 232 (77.9%)
+
+Task: push the plate to the front of the stove
+300 steps
+# episodes completed so far: 299
+# successes: 232 (77.6%)
+
+Task: push the plate to the front of the stove
+120 steps
+# episodes completed so far: 300
+# successes: 233 (77.7%)
+
+Current task success rate: 0.8
+Current total success rate: 0.7766666666666666
+
+Task: put the cream cheese in the bowl
+99 steps
+# episodes completed so far: 301
+# successes: 234 (77.7%)
+
+Task: put the cream cheese in the bowl
+111 steps
+# episodes completed so far: 302
+# successes: 235 (77.8%)
+
+Task: put the cream cheese in the bowl
+300 steps
+# episodes completed so far: 303
+# successes: 235 (77.6%)
+
+Task: put the cream cheese in the bowl
+115 steps
+# episodes completed so far: 304
+# successes: 236 (77.6%)
+
+Task: put the cream cheese in the bowl
+102 steps
+# episodes completed so far: 305
+# successes: 237 (77.7%)
+
+Task: put the cream cheese in the bowl
+300 steps
+# episodes completed so far: 306
+# successes: 237 (77.5%)
+
+Task: put the cream cheese in the bowl
+81 steps
+# episodes completed so far: 307
+# successes: 238 (77.5%)
+
+Task: put the cream cheese in the bowl
+299 steps
+# episodes completed so far: 308
+# successes: 239 (77.6%)
+
+Task: put the cream cheese in the bowl
+95 steps
+# episodes completed so far: 309
+# successes: 240 (77.7%)
+
+Task: put the cream cheese in the bowl
+102 steps
+# episodes completed so far: 310
+# successes: 241 (77.7%)
+
+Task: put the cream cheese in the bowl
+104 steps
+# episodes completed so far: 311
+# successes: 242 (77.8%)
+
+Task: put the cream cheese in the bowl
+171 steps
+# episodes completed so far: 312
+# successes: 243 (77.9%)
+
+Task: put the cream cheese in the bowl
+109 steps
+# episodes completed so far: 313
+# successes: 244 (78.0%)
+
+Task: put the cream cheese in the bowl
+86 steps
+# episodes completed so far: 314
+# successes: 245 (78.0%)
+
+Task: put the cream cheese in the bowl
+152 steps
+# episodes completed so far: 315
+# successes: 246 (78.1%)
+
+Task: put the cream cheese in the bowl
+104 steps
+# episodes completed so far: 316
+# successes: 247 (78.2%)
+
+Task: put the cream cheese in the bowl
+116 steps
+# episodes completed so far: 317
+# successes: 248 (78.2%)
+
+Task: put the cream cheese in the bowl
+300 steps
+# episodes completed so far: 318
+# successes: 248 (78.0%)
+
+Task: put the cream cheese in the bowl
+300 steps
+# episodes completed so far: 319
+# successes: 248 (77.7%)
+
+Task: put the cream cheese in the bowl
+300 steps
+# episodes completed so far: 320
+# successes: 248 (77.5%)
+
+Task: put the cream cheese in the bowl
+300 steps
+# episodes completed so far: 321
+# successes: 248 (77.3%)
+
+Task: put the cream cheese in the bowl
+117 steps
+# episodes completed so far: 322
+# successes: 249 (77.3%)
+
+Task: put the cream cheese in the bowl
+300 steps
+# episodes completed so far: 323
+# successes: 249 (77.1%)
+
+Task: put the cream cheese in the bowl
+300 steps
+# episodes completed so far: 324
+# successes: 249 (76.9%)
+
+Task: put the cream cheese in the bowl
+109 steps
+# episodes completed so far: 325
+# successes: 250 (76.9%)
+
+Task: put the cream cheese in the bowl
+82 steps
+# episodes completed so far: 326
+# successes: 251 (77.0%)
+
+Task: put the cream cheese in the bowl
+90 steps
+# episodes completed so far: 327
+# successes: 252 (77.1%)
+
+Task: put the cream cheese in the bowl
+107 steps
+# episodes completed so far: 328
+# successes: 253 (77.1%)
+
+Task: put the cream cheese in the bowl
+109 steps
+# episodes completed so far: 329
+# successes: 254 (77.2%)
+
+Task: put the cream cheese in the bowl
+110 steps
+# episodes completed so far: 330
+# successes: 255 (77.3%)
+
+Task: put the cream cheese in the bowl
+117 steps
+# episodes completed so far: 331
+# successes: 256 (77.3%)
+
+Task: put the cream cheese in the bowl
+103 steps
+# episodes completed so far: 332
+# successes: 257 (77.4%)
+
+Task: put the cream cheese in the bowl
+102 steps
+# episodes completed so far: 333
+# successes: 258 (77.5%)
+
+Task: put the cream cheese in the bowl
+100 steps
+# episodes completed so far: 334
+# successes: 259 (77.5%)
+
+Task: put the cream cheese in the bowl
+146 steps
+# episodes completed so far: 335
+# successes: 260 (77.6%)
+
+Task: put the cream cheese in the bowl
+90 steps
+# episodes completed so far: 336
+# successes: 261 (77.7%)
+
+Task: put the cream cheese in the bowl
+102 steps
+# episodes completed so far: 337
+# successes: 262 (77.7%)
+
+Task: put the cream cheese in the bowl
+125 steps
+# episodes completed so far: 338
+# successes: 263 (77.8%)
+
+Task: put the cream cheese in the bowl
+119 steps
+# episodes completed so far: 339
+# successes: 264 (77.9%)
+
+Task: put the cream cheese in the bowl
+95 steps
+# episodes completed so far: 340
+# successes: 265 (77.9%)
+
+Task: put the cream cheese in the bowl
+300 steps
+# episodes completed so far: 341
+# successes: 265 (77.7%)
+
+Task: put the cream cheese in the bowl
+110 steps
+# episodes completed so far: 342
+# successes: 266 (77.8%)
+
+Task: put the cream cheese in the bowl
+96 steps
+# episodes completed so far: 343
+# successes: 267 (77.8%)
+
+Task: put the cream cheese in the bowl
+112 steps
+# episodes completed so far: 344
+# successes: 268 (77.9%)
+
+Task: put the cream cheese in the bowl
+107 steps
+# episodes completed so far: 345
+# successes: 269 (78.0%)
+
+Task: put the cream cheese in the bowl
+95 steps
+# episodes completed so far: 346
+# successes: 270 (78.0%)
+
+Task: put the cream cheese in the bowl
+125 steps
+# episodes completed so far: 347
+# successes: 271 (78.1%)
+
+Task: put the cream cheese in the bowl
+300 steps
+# episodes completed so far: 348
+# successes: 271 (77.9%)
+
+Task: put the cream cheese in the bowl
+97 steps
+# episodes completed so far: 349
+# successes: 272 (77.9%)
+
+Task: put the cream cheese in the bowl
+300 steps
+# episodes completed so far: 350
+# successes: 272 (77.7%)
+
+Current task success rate: 0.78
+Current total success rate: 0.7771428571428571
+
+Task: turn on the stove
+93 steps
+# episodes completed so far: 351
+# successes: 273 (77.8%)
+
+Task: turn on the stove
+103 steps
+# episodes completed so far: 352
+# successes: 274 (77.8%)
+
+Task: turn on the stove
+300 steps
+# episodes completed so far: 353
+# successes: 274 (77.6%)
+
+Task: turn on the stove
+82 steps
+# episodes completed so far: 354
+# successes: 275 (77.7%)
+
+Task: turn on the stove
+79 steps
+# episodes completed so far: 355
+# successes: 276 (77.7%)
+
+Task: turn on the stove
+111 steps
+# episodes completed so far: 356
+# successes: 277 (77.8%)
+
+Task: turn on the stove
+160 steps
+# episodes completed so far: 357
+# successes: 278 (77.9%)
+
+Task: turn on the stove
+79 steps
+# episodes completed so far: 358
+# successes: 279 (77.9%)
+
+Task: turn on the stove
+82 steps
+# episodes completed so far: 359
+# successes: 280 (78.0%)
+
+Task: turn on the stove
+72 steps
+# episodes completed so far: 360
+# successes: 281 (78.1%)
+
+Task: turn on the stove
+86 steps
+# episodes completed so far: 361
+# successes: 282 (78.1%)
+
+Task: turn on the stove
+84 steps
+# episodes completed so far: 362
+# successes: 283 (78.2%)
+
+Task: turn on the stove
+56 steps
+# episodes completed so far: 363
+# successes: 284 (78.2%)
+
+Task: turn on the stove
+79 steps
+# episodes completed so far: 364
+# successes: 285 (78.3%)
+
+Task: turn on the stove
+74 steps
+# episodes completed so far: 365
+# successes: 286 (78.4%)
+
+Task: turn on the stove
+75 steps
+# episodes completed so far: 366
+# successes: 287 (78.4%)
+
+Task: turn on the stove
+83 steps
+# episodes completed so far: 367
+# successes: 288 (78.5%)
+
+Task: turn on the stove
+71 steps
+# episodes completed so far: 368
+# successes: 289 (78.5%)
+
+Task: turn on the stove
+84 steps
+# episodes completed so far: 369
+# successes: 290 (78.6%)
+
+Task: turn on the stove
+77 steps
+# episodes completed so far: 370
+# successes: 291 (78.6%)
+
+Task: turn on the stove
+86 steps
+# episodes completed so far: 371
+# successes: 292 (78.7%)
+
+Task: turn on the stove
+74 steps
+# episodes completed so far: 372
+# successes: 293 (78.8%)
+
+Task: turn on the stove
+74 steps
+# episodes completed so far: 373
+# successes: 294 (78.8%)
+
+Task: turn on the stove
+83 steps
+# episodes completed so far: 374
+# successes: 295 (78.9%)
+
+Task: turn on the stove
+83 steps
+# episodes completed so far: 375
+# successes: 296 (78.9%)
+
+Task: turn on the stove
+80 steps
+# episodes completed so far: 376
+# successes: 297 (79.0%)
+
+Task: turn on the stove
+84 steps
+# episodes completed so far: 377
+# successes: 298 (79.0%)
+
+Task: turn on the stove
+80 steps
+# episodes completed so far: 378
+# successes: 299 (79.1%)
+
+Task: turn on the stove
+95 steps
+# episodes completed so far: 379
+# successes: 300 (79.2%)
+
+Task: turn on the stove
+69 steps
+# episodes completed so far: 380
+# successes: 301 (79.2%)
+
+Task: turn on the stove
+73 steps
+# episodes completed so far: 381
+# successes: 302 (79.3%)
+
+Task: turn on the stove
+80 steps
+# episodes completed so far: 382
+# successes: 303 (79.3%)
+
+Task: turn on the stove
+89 steps
+# episodes completed so far: 383
+# successes: 304 (79.4%)
+
+Task: turn on the stove
+79 steps
+# episodes completed so far: 384
+# successes: 305 (79.4%)
+
+Task: turn on the stove
+73 steps
+# episodes completed so far: 385
+# successes: 306 (79.5%)
+
+Task: turn on the stove
+74 steps
+# episodes completed so far: 386
+# successes: 307 (79.5%)
+
+Task: turn on the stove
+72 steps
+# episodes completed so far: 387
+# successes: 308 (79.6%)
+
+Task: turn on the stove
+68 steps
+# episodes completed so far: 388
+# successes: 309 (79.6%)
+
+Task: turn on the stove
+64 steps
+# episodes completed so far: 389
+# successes: 310 (79.7%)
+
+Task: turn on the stove
+74 steps
+# episodes completed so far: 390
+# successes: 311 (79.7%)
+
+Task: turn on the stove
+113 steps
+# episodes completed so far: 391
+# successes: 312 (79.8%)
+
+Task: turn on the stove
+93 steps
+# episodes completed so far: 392
+# successes: 313 (79.8%)
+
+Task: turn on the stove
+72 steps
+# episodes completed so far: 393
+# successes: 314 (79.9%)
+
+Task: turn on the stove
+88 steps
+# episodes completed so far: 394
+# successes: 315 (79.9%)
+
+Task: turn on the stove
+72 steps
+# episodes completed so far: 395
+# successes: 316 (80.0%)
+
+Task: turn on the stove
+76 steps
+# episodes completed so far: 396
+# successes: 317 (80.1%)
+
+Task: turn on the stove
+82 steps
+# episodes completed so far: 397
+# successes: 318 (80.1%)
+
+Task: turn on the stove
+84 steps
+# episodes completed so far: 398
+# successes: 319 (80.2%)
+
+Task: turn on the stove
+94 steps
+# episodes completed so far: 399
+# successes: 320 (80.2%)
+
+Task: turn on the stove
+115 steps
+# episodes completed so far: 400
+# successes: 321 (80.2%)
+
+Current task success rate: 0.98
+Current total success rate: 0.8025
+
+Task: put the bowl on the plate
+79 steps
+# episodes completed so far: 401
+# successes: 322 (80.3%)
+
+Task: put the bowl on the plate
+83 steps
+# episodes completed so far: 402
+# successes: 323 (80.3%)
+
+Task: put the bowl on the plate
+71 steps
+# episodes completed so far: 403
+# successes: 324 (80.4%)
+
+Task: put the bowl on the plate
+68 steps
+# episodes completed so far: 404
+# successes: 325 (80.4%)
+
+Task: put the bowl on the plate
+77 steps
+# episodes completed so far: 405
+# successes: 326 (80.5%)
+
+Task: put the bowl on the plate
+300 steps
+# episodes completed so far: 406
+# successes: 326 (80.3%)
+
+Task: put the bowl on the plate
+70 steps
+# episodes completed so far: 407
+# successes: 327 (80.3%)
+
+Task: put the bowl on the plate
+300 steps
+# episodes completed so far: 408
+# successes: 327 (80.1%)
+
+Task: put the bowl on the plate
+300 steps
+# episodes completed so far: 409
+# successes: 327 (80.0%)
+
+Task: put the bowl on the plate
+74 steps
+# episodes completed so far: 410
+# successes: 328 (80.0%)
+
+Task: put the bowl on the plate
+72 steps
+# episodes completed so far: 411
+# successes: 329 (80.0%)
+
+Task: put the bowl on the plate
+300 steps
+# episodes completed so far: 412
+# successes: 329 (79.9%)
+
+Task: put the bowl on the plate
+74 steps
+# episodes completed so far: 413
+# successes: 330 (79.9%)
+
+Task: put the bowl on the plate
+86 steps
+# episodes completed so far: 414
+# successes: 331 (80.0%)
+
+Task: put the bowl on the plate
+75 steps
+# episodes completed so far: 415
+# successes: 332 (80.0%)
+
+Task: put the bowl on the plate
+74 steps
+# episodes completed so far: 416
+# successes: 333 (80.0%)
+
+Task: put the bowl on the plate
+300 steps
+# episodes completed so far: 417
+# successes: 333 (79.9%)
+
+Task: put the bowl on the plate
+300 steps
+# episodes completed so far: 418
+# successes: 333 (79.7%)
+
+Task: put the bowl on the plate
+89 steps
+# episodes completed so far: 419
+# successes: 334 (79.7%)
+
+Task: put the bowl on the plate
+82 steps
+# episodes completed so far: 420
+# successes: 335 (79.8%)
+
+Task: put the bowl on the plate
+74 steps
+# episodes completed so far: 421
+# successes: 336 (79.8%)
+
+Task: put the bowl on the plate
+300 steps
+# episodes completed so far: 422
+# successes: 336 (79.6%)
+
+Task: put the bowl on the plate
+120 steps
+# episodes completed so far: 423
+# successes: 337 (79.7%)
+
+Task: put the bowl on the plate
+94 steps
+# episodes completed so far: 424
+# successes: 338 (79.7%)
+
+Task: put the bowl on the plate
+79 steps
+# episodes completed so far: 425
+# successes: 339 (79.8%)
+
+Task: put the bowl on the plate
+89 steps
+# episodes completed so far: 426
+# successes: 340 (79.8%)
+
+Task: put the bowl on the plate
+192 steps
+# episodes completed so far: 427
+# successes: 341 (79.9%)
+
+Task: put the bowl on the plate
+77 steps
+# episodes completed so far: 428
+# successes: 342 (79.9%)
+
+Task: put the bowl on the plate
+75 steps
+# episodes completed so far: 429
+# successes: 343 (80.0%)
+
+Task: put the bowl on the plate
+75 steps
+# episodes completed so far: 430
+# successes: 344 (80.0%)
+
+Task: put the bowl on the plate
+70 steps
+# episodes completed so far: 431
+# successes: 345 (80.0%)
+
+Task: put the bowl on the plate
+68 steps
+# episodes completed so far: 432
+# successes: 346 (80.1%)
+
+Task: put the bowl on the plate
+300 steps
+# episodes completed so far: 433
+# successes: 346 (79.9%)
+
+Task: put the bowl on the plate
+75 steps
+# episodes completed so far: 434
+# successes: 347 (80.0%)
+
+Task: put the bowl on the plate
+300 steps
+# episodes completed so far: 435
+# successes: 347 (79.8%)
+
+Task: put the bowl on the plate
+68 steps
+# episodes completed so far: 436
+# successes: 348 (79.8%)
+
+Task: put the bowl on the plate
+81 steps
+# episodes completed so far: 437
+# successes: 349 (79.9%)
+
+Task: put the bowl on the plate
+82 steps
+# episodes completed so far: 438
+# successes: 350 (79.9%)
+
+Task: put the bowl on the plate
+73 steps
+# episodes completed so far: 439
+# successes: 351 (80.0%)
+
+Task: put the bowl on the plate
+76 steps
+# episodes completed so far: 440
+# successes: 352 (80.0%)
+
+Task: put the bowl on the plate
+300 steps
+# episodes completed so far: 441
+# successes: 352 (79.8%)
+
+Task: put the bowl on the plate
+77 steps
+# episodes completed so far: 442
+# successes: 353 (79.9%)
+
+Task: put the bowl on the plate
+99 steps
+# episodes completed so far: 443
+# successes: 354 (79.9%)
+
+Task: put the bowl on the plate
+76 steps
+# episodes completed so far: 444
+# successes: 355 (80.0%)
+
+Task: put the bowl on the plate
+300 steps
+# episodes completed so far: 445
+# successes: 355 (79.8%)
+
+Task: put the bowl on the plate
+300 steps
+# episodes completed so far: 446
+# successes: 355 (79.6%)
+
+Task: put the bowl on the plate
+75 steps
+# episodes completed so far: 447
+# successes: 356 (79.6%)
+
+Task: put the bowl on the plate
+101 steps
+# episodes completed so far: 448
+# successes: 357 (79.7%)
+
+Task: put the bowl on the plate
+88 steps
+# episodes completed so far: 449
+# successes: 358 (79.7%)
+
+Task: put the bowl on the plate
+91 steps
+# episodes completed so far: 450
+# successes: 359 (79.8%)
+
+Current task success rate: 0.76
+Current total success rate: 0.7977777777777778
+
+Task: put the wine bottle on the rack
+160 steps
+# episodes completed so far: 451
+# successes: 360 (79.8%)
+
+Task: put the wine bottle on the rack
+146 steps
+# episodes completed so far: 452
+# successes: 361 (79.9%)
+
+Task: put the wine bottle on the rack
+135 steps
+# episodes completed so far: 453
+# successes: 362 (79.9%)
+
+Task: put the wine bottle on the rack
+151 steps
+# episodes completed so far: 454
+# successes: 363 (80.0%)
+
+Task: put the wine bottle on the rack
+151 steps
+# episodes completed so far: 455
+# successes: 364 (80.0%)
+
+Task: put the wine bottle on the rack
+139 steps
+# episodes completed so far: 456
+# successes: 365 (80.0%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 457
+# successes: 365 (79.9%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 458
+# successes: 365 (79.7%)
+
+Task: put the wine bottle on the rack
+149 steps
+# episodes completed so far: 459
+# successes: 366 (79.7%)
+
+Task: put the wine bottle on the rack
+129 steps
+# episodes completed so far: 460
+# successes: 367 (79.8%)
+
+Task: put the wine bottle on the rack
+164 steps
+# episodes completed so far: 461
+# successes: 368 (79.8%)
+
+Task: put the wine bottle on the rack
+129 steps
+# episodes completed so far: 462
+# successes: 369 (79.9%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 463
+# successes: 369 (79.7%)
+
+Task: put the wine bottle on the rack
+115 steps
+# episodes completed so far: 464
+# successes: 370 (79.7%)
+
+Task: put the wine bottle on the rack
+120 steps
+# episodes completed so far: 465
+# successes: 371 (79.8%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 466
+# successes: 371 (79.6%)
+
+Task: put the wine bottle on the rack
+127 steps
+# episodes completed so far: 467
+# successes: 372 (79.7%)
+
+Task: put the wine bottle on the rack
+126 steps
+# episodes completed so far: 468
+# successes: 373 (79.7%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 469
+# successes: 373 (79.5%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 470
+# successes: 373 (79.4%)
+
+Task: put the wine bottle on the rack
+245 steps
+# episodes completed so far: 471
+# successes: 374 (79.4%)
+
+Task: put the wine bottle on the rack
+157 steps
+# episodes completed so far: 472
+# successes: 375 (79.4%)
+
+Task: put the wine bottle on the rack
+215 steps
+# episodes completed so far: 473
+# successes: 376 (79.5%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 474
+# successes: 376 (79.3%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 475
+# successes: 376 (79.2%)
+
+Task: put the wine bottle on the rack
+213 steps
+# episodes completed so far: 476
+# successes: 377 (79.2%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 477
+# successes: 377 (79.0%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 478
+# successes: 377 (78.9%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 479
+# successes: 377 (78.7%)
+
+Task: put the wine bottle on the rack
+181 steps
+# episodes completed so far: 480
+# successes: 378 (78.8%)
+
+Task: put the wine bottle on the rack
+239 steps
+# episodes completed so far: 481
+# successes: 379 (78.8%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 482
+# successes: 379 (78.6%)
+
+Task: put the wine bottle on the rack
+145 steps
+# episodes completed so far: 483
+# successes: 380 (78.7%)
+
+Task: put the wine bottle on the rack
+159 steps
+# episodes completed so far: 484
+# successes: 381 (78.7%)
+
+Task: put the wine bottle on the rack
+124 steps
+# episodes completed so far: 485
+# successes: 382 (78.8%)
+
+Task: put the wine bottle on the rack
+140 steps
+# episodes completed so far: 486
+# successes: 383 (78.8%)
+
+Task: put the wine bottle on the rack
+165 steps
+# episodes completed so far: 487
+# successes: 384 (78.9%)
+
+Task: put the wine bottle on the rack
+218 steps
+# episodes completed so far: 488
+# successes: 385 (78.9%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 489
+# successes: 385 (78.7%)
+
+Task: put the wine bottle on the rack
+177 steps
+# episodes completed so far: 490
+# successes: 386 (78.8%)
+
+Task: put the wine bottle on the rack
+141 steps
+# episodes completed so far: 491
+# successes: 387 (78.8%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 492
+# successes: 387 (78.7%)
+
+Task: put the wine bottle on the rack
+142 steps
+# episodes completed so far: 493
+# successes: 388 (78.7%)
+
+Task: put the wine bottle on the rack
+115 steps
+# episodes completed so far: 494
+# successes: 389 (78.7%)
+
+Task: put the wine bottle on the rack
+206 steps
+# episodes completed so far: 495
+# successes: 390 (78.8%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 496
+# successes: 390 (78.6%)
+
+Task: put the wine bottle on the rack
+122 steps
+# episodes completed so far: 497
+# successes: 391 (78.7%)
+
+Task: put the wine bottle on the rack
+300 steps
+# episodes completed so far: 498
+# successes: 391 (78.5%)
+
+Task: put the wine bottle on the rack
+167 steps
+# episodes completed so far: 499
+# successes: 392 (78.6%)
+
+Task: put the wine bottle on the rack
+118 steps
+# episodes completed so far: 500
+# successes: 393 (78.6%)
+
+Current task success rate: 0.68
+Current total success rate: 0.786
+
+

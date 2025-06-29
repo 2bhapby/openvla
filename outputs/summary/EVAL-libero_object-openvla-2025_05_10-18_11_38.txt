@@ -1,0 +1,531 @@
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Task: pick up the alphabet soup and place it in the basket
+Current task success rate: 0.84
+Current total success rate: 0.84
+
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Task: pick up the cream cheese and place it in the basket
+Current task success rate: 0.74
+Current total success rate: 0.79
+
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Task: pick up the salad dressing and place it in the basket
+Current task success rate: 0.94
+Current total success rate: 0.84
+
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Task: pick up the bbq sauce and place it in the basket
+Current task success rate: 0.64
+Current total success rate: 0.79
+
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Task: pick up the ketchup and place it in the basket
+Current task success rate: 0.9
+Current total success rate: 0.812
+
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Task: pick up the tomato sauce and place it in the basket
+Current task success rate: 0.84
+Current total success rate: 0.8166666666666667
+
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Task: pick up the butter and place it in the basket
+Current task success rate: 0.88
+Current total success rate: 0.8257142857142857
+
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Task: pick up the milk and place it in the basket
+Current task success rate: 0.94
+Current total success rate: 0.84
+
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Task: pick up the chocolate pudding and place it in the basket
+Current task success rate: 0.96
+Current total success rate: 0.8533333333333334
+
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Task: pick up the orange juice and place it in the basket
+Current task success rate: 0.98
+Current total success rate: 0.866
+
+
