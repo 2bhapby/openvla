@@ -2,8 +2,8 @@
   "citation": "// TODO(example_dataset): BibTeX citation",
   "description": "TODO(example_dataset): Markdown description of your dataset.\nDescription is **formatted** as markdown.\n\nIt should also contain any processing which has been applied (if any),\n(e.g. corrupted example skipped, images cropped,...):",
   "fileFormat": "tfrecord",
-  "moduleName": "LIBERO_Object.LIBERO_Object_dataset_builder",
-  "name": "libero_object",
+  "moduleName": "from_recovery_start_frames.from_recovery_start_frames_dataset_builder",
+  "name": "from_recovery_start_frames",
   "releaseNotes": {
     "1.0.0": "Initial release."
   },
@@ -11,7 +11,7 @@
     {
       "filepathTemplate": "{DATASET}-{SPLIT}.{FILEFORMAT}-{SHARD_X_OF_Y}",
       "name": "train",
-      "numBytes": "2817311159",
+      "numBytes": "2941240413",
       "shardLengths": [
         "14",
         "14",
@@ -44,7 +44,8 @@
         "14",
         "15",
         "14",
-        "14"
+        "14",
+        "23"
       ]
     }
   ],
